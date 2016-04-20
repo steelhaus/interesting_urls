@@ -1,0 +1,183 @@
+игры:
+игры про божественность: http://pikabu.ru/story/divinity_games_bozhestvennost_v_videoigrakh_chast_1_4141670
+милые игры типа Unravel: http://pikabu.ru/story/_4059551
+как пластилиновые фигурки становятся фигруками на экране: http://pikabu.ru/story/_3994327
+Интересная игра, в которой нужно программировать (Javascript) для прохождения: https://alexnisnevich.github.io/untrusted/
+Human REsource Mashine - очередная игра с программированием: http://pikabu.ru/story/_3718179
+игра Astroneer: https://geektimes.ru/post/263622/
+игры для слабых компьютеров: http://vk.com/wall-31076033_80836
+
+
+SQL
+
+изучение oracle pl/sql по шагам: http://www.firststeps.ru/sql/oracle/oracle1.html
+Вопросы при собеседовании по sql: http://java67.blogspot.ru/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html
+
+общее по программированию
+80 популярных вопросов на собеседовании: https://tproger.ru/articles/problems/
+общие алгоритмы по машинному обучению: https://xyclade.github.io/MachineLearning/
+Разница в шаблонах cpp и дженериках java: https://tproger.ru/problems/explain-the-difference-between-the-patterns-in-c-and-c-and-generalizations
+Ищем прямоугольники без OpenCV на Python: https://www.homeworkhelponline.net/blog/programming/find-rectangles
+Сравнение изображений на Python: https://7webpages.com/blog/image-duplicates-detection-python/
+11 полезных навыков, которыми необходимо обладать: https://tproger.ru/translations/11-skills-you-need-to-master-to-land-a-100000-engineering-job-at-google/
+Написание собственного интерпретатора/компилятора: https://tproger.ru/translations/interpreter-compiler-jit/
+3D симуляция водной поверхности на NVIDIA PhisX: http://vk.com/doc235686439_422681729?hash=2829879a912dc75a7d&dl=b6956d1a971239959f
+Алгоритмы, которые должен знать любой программист: https://tproger.ru/experts/7/
+Нейронные сети. Подборка: http://vk.com/wall-30666517_1227814
+Flat Assembler с нуля: http://vk.com/wall-30666517_1230421
+Написание собственного интерпретатора: https://ruslanspivak.com/lsbasi-part1/
+Сложности алгоритмов: https://habrahabr.ru/post/188010/
+графы и нахождение путей: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWO7p6xpTzs-QR58DRg2Ln0V
+Нахождение путей. Графы: https://www.youtube.com/watch?v=y1q5ZkD52LE&list=PLW3Zl3wyJwWO7p6xpTzs-QR58DRg2Ln0V&index=1
+нейронные сети: https://vk.com/wall-30666517_1183036
+
+web
+1) Видео-уроки по Bootstrap 3. Начало. https://www.youtube.com/watch?v=AYkEfr-5b1o
+Выдвигающееся меню на чистом css: https://www.youtube.com/watch?v=d4P8s-mkMvs
+хорошие примеры css: http://www.prostoweb.com.ua/sozdanie_sayta/stati/18_potryasayuschih_primerov_css
+Вертикальная централизация на css: https://www.youtube.com/watch?v=T5RIh4StIvs
+курс по node.js http://vk.com/wall-30666517_1163266
+внутреннее скругление border-radius inset: https://habrahabr.ru/post/259603/
+основы asp.net: http://professorweb.ru/my/ASP_NET/base/level1/base_aspnet_index.php
+видеокурс по asp.net mvc 4: http://vk.com/wall-30666517_1177807
+
+openGl
+openGl разработка игр (видео уроки на youtube). Стартовый урок (OpenGL 3D Game Tutorial 1: The Display): https://www.youtube.com/watch?v=VS8wlS9hF8E&index=1&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
+openGl туториалы: http://mbsoftworks.sk/index.php?page=tutorials&series=1
+Записки программиста. Изучение OpenGL (одна из статей): http://eax.me/opengl-vbo-vao-shaders/
+My Little OpenGL. Уроки по OpenGL: http://day9saidme.blogspot.ru/
+
+raspberry Pi и Arduino
+Raspberry Pi для начинающих: http://edurobots.ru/raspberry-pi-dlya-nachinayushhix/
+Arduino+Modbus+MasterScada: https://habrahabr.ru/post/278269/
+Начало работы с Arduino: https://www.youtube.com/watch?v=ZbAqbnkv8WM
+Arduino. Pikabu. Начало: http://pikabu.ru/story/_3550918
+Arduino. Pikabu. Софт: http://pikabu.ru/story/_3553199
+Arduino. Pikabu. Макетные платы: http://pikabu.ru/story/_3553591
+
+java
+1) Горячие клавиши в IntelliJIDEA: https://github.com/steelhaus/interesting_urls/src/intellijIDEA_shortcuts
+Шпаргалка java-программиста (в самом блоге много чего интересного): https://habrahabr.ru/company/luxoft/blog/280784/
+Java Fx - видео-туториалы. Стартовый урок (JavaFX Tutorial #1 - First FX Application With Eclipse): https://www.youtube.com/watch?v=EEcpMTpaWhs
+Java Fx - видео-туториалы. Ссылка на уроки на гитхабе: https://github.com/KriechelD/YouTubeChannel
+Многопоточность в java: https://habrahabr.ru/post/164487/
+java веб-фреймворки: https://xyclade.github.io/MachineLearning/
+
+
+Vim
+Шпаргалка по работе в vim: http://eax.me/vim-commands/
+Snippets и шаблоны файлов: https://habrahabr.ru/post/260591/
+
+Unity 3D
+Интересные проекты. Стартовый проект (Создание механического шагающего муравья в Unity (Creating mechanical walking ant in Unity)): https://www.youtube.com/watch?v=sJjfm0-T9Bc&list=PLomfhRzw8PUFd4EaqKa-QYWO7hxCmLC84
+Разработка 2D-аркады на Unity: http://pikabu.ru/story/_3883794
+Моделирование 2D водной поверхности в Unity: https://tproger.ru/translations/creating-dynamic-2d-water-effects-in-unity/
+
+C++
+Ping-pong На C++: https://www.youtube.com/watch?v=IebKxsucu-s
+Начало программирования на C++. Уроки: https://www.youtube.com/watch?v=tAYt6bDW-YI
+Простые уроки по C++. Видео: https://www.youtube.com/watch?v=8rYPm7tUaO0&list=PL30625C8F5ADD5BB4
+Cpp. Pure virtual function call: https://tproger.ru/problems/pure-virtual-function-call/
+ASCII Roguelike игра (2 часа): https://www.youtube.com/watch?v=tVWckBaB5xo
+
+Unreal Engine 4
+Чья-то история по разработке 3D игр на Unreal Engine 4: http://pikabu.ru/story/_4037476
+Настройка персонажа: https://www.youtube.com/watch?v=UmPhU62_jos
+AI реализация: https://www.youtube.com/watch?v=VAAHKNoIg0w
+top-down game туториал: https://www.youtube.com/watch?v=VtMwSduToZg
+гайд по оружию: https://www.youtube.com/watch?v=K8lX4NF6YgU
+гарпун с веревкой: https://www.youtube.com/watch?v=b8Y2zVFZCg0
+сплайн-меши: https://www.youtube.com/watch?v=7YUxM0NDWRY
+основы AI (стрим): https://www.youtube.com/watch?v=evYE7tfWXUY
+много видеоуроков: https://www.youtube.com/watch?v=QIvcTwlosMQ&list=PLwqnA65RFUf-8xIFQYV8Zjziv4gUqjLZ_
+основы ландшафта: https://www.youtube.com/watch?v=2Lx-drupqls
+туториал по созданию гранатомета: http://shootertutorial.com/2015/06/20/create-an-grenade-launcher/
+много туториалов по ue4: http://shootertutorial.com/tutorials/
+траектория снаряда: https://www.youtube.com/watch?v=Fkp50urxShg
+поворот персонажа к цели: https://www.youtube.com/watch?v=JQWIckh4XT0
+sensing AI (Зрение): https://www.youtube.com/watch?v=59INcP9Vsmo
+Создание стрел: https://www.youtube.com/watch?v=4XtLA3bciaE
+Создание танка: https://www.youtube.com/watch?v=Oh7pDL8RFaI
+Классная реализация шутера: https://www.youtube.com/watch?v=KVkSZR8KE4w
+Видео с суперспособностями персонажа: https://www.youtube.com/watch?v=-kn8xwa50O8
+
+книги:
+фантастика: http://pikabu.ru/story/_3973698
+антиутопия: http://www.adme.ru/tvorchestvo-pisateli/15-knig-antiutopij-kotorye-izmenyat-vashe-mnenie-ob-idealnom-mire-723410/
+фентези 1: http://pikabu.ru/story/_3379955
+фентези 2: http://pikabu.ru/story/_3382351
+
+git
+Шпаргалка по работе с git: http://eax.me/git-commands/
+Ежедневная работа с git: https://habrahabr.ru/post/174467/
+Git быстрый старт. Видеокурс: https://geekbrains.ru/courses/66?utm_source=vk.com&utm_medium=social&utm_term=git_quick_start&utm_campaign=tp_ad_22.10.15
+Видеоуроки git: https://www.youtube.com/watch?v=PEKN8NtBDQ0
+Интерактивный курс изучения бранчинга git: http://pcottle.github.io/learnGitBranching/?demo
+tproger. По тегу "гит": https://tproger.ru/tag/git/
+github для новичков: https://www.youtube.com/watch?v=0fKg7e37bQE
+
+Криптография
+Основы криптографии: https://www.youtube.com/watch?v=mlMcNWTwxMw
+
+
+gamedev
+Программист учится рисовать: http://pikabu.ru/story/_3956823
+Вопросы к разработчику игр: http://pikabu.ru/story/_3943470
+Вопросы по геймдеву: http://pikabu.ru/story/_3917320
+Хитрости создания игровых уровней: https://habrahabr.ru/post/274483/
+Процедурная генерация Карт мира на Unity, C#: https://habrahabr.ru/post/276551/
+Шаги разработки игр (приложений): https://tproger.ru/translations/making-your-first-game-a-walkthrough-for-game-developers/
+Игра за 10 минут. C++/OpenGL. Сапер: https://www.youtube.com/watch?v=vqJQoangCSw
+Игра за 10 минут. C++/OpenGL. Шашки: https://www.youtube.com/watch?v=18w2kpn5b9g
+Игра за 10 минут. C++/OpenGL. Астероиды: https://www.youtube.com/watch?v=7iAG0qObDbA
+Игра за 10 минут. C++/OpenGL. Змейка: https://www.youtube.com/watch?v=GiZGEFBGgKU
+Игра за 10 минут. C++/OpenGL. Арканоид: https://www.youtube.com/watch?v=4jMSVaQfoEQ
+Игра за 10 минут. C++/OpenGL. Тетрис: https://www.youtube.com/watch?v=q1bHWvpMqtI
+Философия создания сетевых игр: https://www.youtube.com/watch?v=AdfUw0Ouqyc
+C чего изучать игрострой: http://pikabu.ru/story/_3899281
+История создания ландшафта на Unity за 24 часа: https://tproger.ru/articles/unity-terrain-24-hours/
+
+Дизайн
+Пиксель-арт (часть 1): http://pikabu.ru/story/_3918181
+Пиксель-арт (часть 2): http://pikabu.ru/story/_3920715
+Сайты с бесплатной графикой для игр: http://pikabu.ru/story/_3903473
+Сервисы для дизайнеров и веб-разработчиков: http://pikabu.ru/story/_3899306
+
+Autodesl 3ds Max
+Моделирование. Часть 1: https://vk.com/tproger?w=wall-30666517_1228799
+Моделирование. Часть 2: https://vk.com/tproger?w=wall-30666517_1231466
+Моделирование. Часть 3: https://vk.com/tproger?w=wall-30666517_1232701
+Моделирование. Часть 4: https://vk.com/tproger?w=wall-30666517_1233281
+
+Photoshop
+Уроки по фотошопу: http://pikabu.ru/story/_3901569
+Photoshop. Rainy Jungle: https://www.youtube.com/watch?v=85tOWpbH4m0
+Photoshop. Sand Storm: https://www.youtube.com/watch?v=x8cgJqIb95Y
+Photoshop. Rain Effect: https://www.youtube.com/watch?v=AXQSaMZlA5s
+Photoshop. Todate Is My Day: https://www.youtube.com/watch?v=HyMXRCMb5A8
+Photoshop. Landscape Tutorial: https://www.youtube.com/watch?v=G-xeWTDyjHg
+Photoshop. Dark Light Effects Tutorial: https://www.youtube.com/watch?v=1IuXSsUbdU8
+Photoshop. Effects for Photographers: https://www.youtube.com/watch?v=Q5u7d2piCpQ
+Photoshop. Smoke Effect: https://www.youtube.com/watch?v=XD9vsCJUcZY
+Photoshop. Portrait Effect: https://www.youtube.com/watch?v=UlaHsxMls0M
+Создаем реалистичный объект на текстуре: http://pikabu.ru/story/_3549403
+
+Objective-C
+Obj-C. ЧТо нужно знать middle-разработчику: https://habrahabr.ru/post/273487/
+Уроки. Часть 1: https://vk.com/tproger?w=wall-30666517_1223845
+Уроки. Часть 2: https://vk.com/tproger?w=wall-30666517_1226060
+
+Swift
+Основы разработки приложений под iOs (книга): http://4treaty.ru/programmirovanie/swift_osnovy_razrabotki_prilozhienii_pod_ios_5007.html
+Swift-book. Сайт с уроками программирования на Swift: http://swiftbook.ru/start-page
+Swift. Видеокурс: https://www.youtube.com/watch?v=WNMFljBCOP8
+
+Python
+python libraries: http://blog.yhat.com/posts/11-python-libraries-you-might-not-know.html
+
+Немножко математики
+Преобразование девиации и его использование для определения системы координат по набору расстояний: https://habrahabr.ru/post/262601/
+Спектры расстояний простых наборов и их объединений (часть 2): https://habrahabr.ru/post/262703/
+Корреляция, ковариация и девиация (часть 3): https://habrahabr.ru/post/263907/
+Сказ царя Салтана о потенциале лапласиана: https://habrahabr.ru/post/280610/
+тензоры, нейросети, байесовский вывод: https://habrahabr.ru/company/yandex/blog/261245/
