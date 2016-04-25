@@ -207,6 +207,7 @@ sensing AI (Зрение): https://www.youtube.com/watch?v=59INcP9Vsmo
 Гарри Поттер и методы рационального мышления: http://hpmor.ru/
 Киберпанк: http://pikabu.ru/story/knigi_zhanra_quotkiberpankquot_3275060
 Карьера программиста. Как устроиться на работу в Google, Microsoft или другую ведущую IT-компанию: http://www.piter.com/product/kariera-programmista-kak-ustroitsya-na-rabotu-v-google-microsoft-ili-druguyu-veduschuyu-it-kompaniyu-2
+Алан Тьюринг - Энигма
 
 git
 Шпаргалка по работе с git: http://eax.me/git-commands/
