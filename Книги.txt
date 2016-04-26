@@ -9,3 +9,4 @@
 8) Гарри Поттер и методы рационального мышления: http://hpmor.ru/
 9) Подборка по киберпанку: http://pikabu.ru/story/knigi_zhanra_quotkiberpankquot_3275060
 10) Карьера программиста. Как устроиться на работу в Google, Microsoft или другую ведущую IT-компанию: http://www.piter.com/product/kariera-programmista-kak-ustroitsya-na-rabotu-v-google-microsoft-ili-druguyu-veduschuyu-it-kompaniyu-2
+11) Английские слова для заучивания: https://github.com/steelhaus/interesting_urls/tree/master/src/english850
