@@ -9,3 +9,4 @@
 8) Сервис для просмотра одного изображения в различных разрешениях: https://www.sizzlepig.com/
 9) Онлайн создание мокапов: http://frame.lab25.co.uk/
 10) Генератор хипстерских логотипов: http://www.hipsterlogogenerator.com/
+11) Таблица совместимости цветов: https://github.com/steelhaus/interesting_urls/blob/master/src/tmp/crib_colors_compatibility.jpg
