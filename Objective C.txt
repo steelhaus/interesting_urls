@@ -1,0 +1,4 @@
+- - - - - Objective-C - - - - -
+1) Objective-C. ЧТо нужно знать middle-разработчику: https://habrahabr.ru/post/273487/
+2) Уроки по Objective-C. Часть 1: https://vk.com/tproger?w=wall-30666517_1223845
+3) Уроки по Objective-C. Часть 2: https://vk.com/tproger?w=wall-30666517_1226060

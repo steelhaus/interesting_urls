@@ -1,0 +1,5 @@
+- - - - - Vim - - - - -
+1) Шпаргалка по работе в vim: http://eax.me/vim-commands/
+2) Snippets и шаблоны файлов: https://habrahabr.ru/post/260591/
+3) Learn Vim Progressively: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+4) Справочник по горячим клавишам в vim: https://habrahabr.ru/post/193176/#first_unread

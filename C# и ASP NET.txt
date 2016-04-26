@@ -1,0 +1,15 @@
+- - - - - C# и ASP.NET - - - - -
+1) Многопользовательский чат на C# за 15 минут: https://habrahabr.ru/post/252021/
+2) AJAX в ASP.NET: http://wladm.narod.ru/C_Sharp/ajax.html
+3) Бот для сапера на C#: https://habrahabr.ru/post/267047/
+4) Вопросы на собеседовании C#, Net, ASP.NET, SQL: http://www.coding4.net/post/post-by-inbruk-20130324-0052-813.aspx
+5) Видеоуроки по вопросам на интервью по C#: https://www.youtube.com/watch?v=-1NUQNSVVmk
+6) Грамотный дизайн приложений на java и C#: https://insidethecpu.com/2015/01/23/object-oriented-test-driven-design-in-c-and-java/
+7) Нехитрые советы для программиста C#: http://npk-kaluga.ru/AdvisesCS.htm
+8) Интернет магазин на ASP.NET: http://professorweb.ru/my/ASP_NET/gamestore/level1/
+9) ASP.NET AJAX Control Toolkit: http://professorweb.ru/my/ASP_NET/sites/level5/5_11.php
+10) Видеокурс по asp.net mvc 4: https://www.youtube.com/watch?v=-P7S4gmMU4g
+11) Основы asp.net: http://professorweb.ru/my/ASP_NET/base/level1/base_aspnet_index.php
+12) Темы собеседования на должность ASP.NET разработчика: http://www.coding4.net/post/post-by-tiberian-20130315-0055-205.aspx
+13) Вопросы на собеседовании по ASP.NET с ответами: http://www.coding4.net/post/post-by-tiberian-20130314-2045-383.aspx
+14) Приступаем к созданию веб-приложений ASP.NET MVC 4: https://mva.microsoft.com/ru/training-courses/-asp-net-mvc-4-8239?l=S2FLVKQ5_1604984382

@@ -1,0 +1,20 @@
+- - - - - Raspberry Pi, Arduino, контроллеры - - - - -
+1) Видеоуроки по работе с Arduino. Amperka: https://www.youtube.com/watch?v=bO_jN0Lpz3Q
+2) Уроки по работе с Raspberry PI для начинающих: http://edurobots.ru/raspberry-pi-dlya-nachinayushhix/
+3) Начало работы с Arduino: https://www.youtube.com/watch?v=ZbAqbnkv8WM
+4) Робот на RaspberryPi, Arduino и RaspiCam + OpenCV: https://geektimes.ru/post/255090/
+5) Взлом пароля на Mac с Arduino и OpenCV: https://habrahabr.ru/post/250347/
+6) Pikabu. Arduino. Закупки на aliexpress (Часть 1): http://pikabu.ru/story/_3548453
+7) Pikabu. Arduino. Закупки на aliexpress (Часть 2): http://pikabu.ru/story/_3549686
+8) Pikabu. Arduino. Закупки на aliexpress (Часть 3): http://pikabu.ru/story/_3550092
+9) Pikabu. Arduino. Начало: http://pikabu.ru/story/_3550918
+10) Pikabu. Arduino. ПО (Часть 1): http://pikabu.ru/story/_3552539
+11) Pikabu. Arduino. ПО (Часть 2): http://pikabu.ru/story/_3553199
+12) Pikabu. Arduino. Макетные платы: http://pikabu.ru/story/_3553591
+13) Pikabu. Arduino. Питание: http://pikabu.ru/story/_3554800
+14) Pikabu. Arduino. Контакты и шины: http://pikabu.ru/story/_3578216
+14) Pikabu. Arduino. Пишем метеостанцию: http://pikabu.ru/story/_3581413
+14) Pikabu. Arduino. Передача радиосигнала (Часть 1): http://pikabu.ru/story/_3636262
+14) Pikabu. Arduino. Передача радиосигнала (Часть 2): http://pikabu.ru/story/_3639880
+14) Pikabu. Arduino. Передача радиосигнала (Часть 3): http://pikabu.ru/story/_3640719
+14) Pikabu. Arduino. Подключение LCD-дисплея: http://pikabu.ru/story/_3681120

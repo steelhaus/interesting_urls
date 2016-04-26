@@ -1,0 +1,5 @@
+- - - - - Задачи - - - - -
+1) Онлайн-задачи по программированию: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
+2) Головоломки на ТП: https://tproger.ru/tag/brain-teasers/
+3) Логическая задача на взвешивание: https://tproger.ru/problems/logic-problem-for-weights/
+4) Логическая задача на расставление костей домино на шахматной доске: https://tproger.ru/problems/problem-for-chessboard-and-domino/

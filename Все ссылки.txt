@@ -1,0 +1,405 @@
+- - - - - Игры - - - - -
+1) Подборка игр про божественность: http://pikabu.ru/story/_4141670
+2) Подборка милых игр: http://pikabu.ru/story/_4059551
+3) Интересная игра, в которой нужно программировать (Javascript) для прохождения: https://alexnisnevich.github.io/untrusted/
+4) Human Resource Mashine - очередная игра с программированием: http://pikabu.ru/story/_3718179
+5) игра Astroneer: https://geektimes.ru/post/263622/
+6) Подборка игр для слабых компьютеров: http://vk.com/wall-31076033_80836
+7) На что влияют настройки графики в играх (1): https://vk.com/page-83484759_50198758
+8) На что влияют настройки графики в играх (2): https://vk.com/page-83484759_50198925
+9) Игры для обучения программированию (12 штук): https://habrahabr.ru/company/ilkfinkom/blog/251583/
+
+- - - - - SQL - - - - -
+1) Изучение oracle pl/sql по шагам: http://www.firststeps.ru/sql/oracle/oracle1.html
+2) Вопросы на собеседовании по sql: http://java67.blogspot.ru/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html
+3) Профилактика SQL-инъекций: https://habrahabr.ru/post/87872/
+4) SQL Server шаг за шагом: http://www.firststeps.ru/sql/sql1.html
+5) Введение в SQL: http://www.mysql.ru/docs/gruber/
+
+- - - - - C# и ASP.NET - - - - -
+1) Многопользовательский чат на C# за 15 минут: https://habrahabr.ru/post/252021/
+2) AJAX в ASP.NET: http://wladm.narod.ru/C_Sharp/ajax.html
+3) Бот для сапера на C#: https://habrahabr.ru/post/267047/
+4) Вопросы на собеседовании C#, Net, ASP.NET, SQL: http://www.coding4.net/post/post-by-inbruk-20130324-0052-813.aspx
+5) Видеоуроки по вопросам на интервью по C#: https://www.youtube.com/watch?v=-1NUQNSVVmk
+6) Грамотный дизайн приложений на java и C#: https://insidethecpu.com/2015/01/23/object-oriented-test-driven-design-in-c-and-java/
+7) Нехитрые советы для программиста C#: http://npk-kaluga.ru/AdvisesCS.htm
+8) Интернет магазин на ASP.NET: http://professorweb.ru/my/ASP_NET/gamestore/level1/
+9) ASP.NET AJAX Control Toolkit: http://professorweb.ru/my/ASP_NET/sites/level5/5_11.php
+10) Видеокурс по asp.net mvc 4: https://www.youtube.com/watch?v=-P7S4gmMU4g
+11) Основы asp.net: http://professorweb.ru/my/ASP_NET/base/level1/base_aspnet_index.php
+12) Темы собеседования на должность ASP.NET разработчика: http://www.coding4.net/post/post-by-tiberian-20130315-0055-205.aspx
+13) Вопросы на собеседовании по ASP.NET с ответами: http://www.coding4.net/post/post-by-tiberian-20130314-2045-383.aspx
+14) Приступаем к созданию веб-приложений ASP.NET MVC 4: https://mva.microsoft.com/ru/training-courses/-asp-net-mvc-4-8239?l=S2FLVKQ5_1604984382
+
+- - - - - Алгоритмы - - - - -
+1) общие алгоритмы по машинному обучению: https://xyclade.github.io/MachineLearning/
+2) Алгоритмы, которые должен знать любой программист: https://tproger.ru/experts/7/
+3) Нейронные сети. Подборка: http://vk.com/wall-30666517_1227814
+4) Сложности алгоритмов: https://habrahabr.ru/post/188010/
+5) Сложности алгоритмов: http://bigocheatsheet.com/
+6) Графы и нахождение путей: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWO7p6xpTzs-QR58DRg2Ln0V
+7) Нахождение путей. Графы: https://www.youtube.com/watch?v=y1q5ZkD52LE&list=PLW3Zl3wyJwWO7p6xpTzs-QR58DRg2Ln0V&index=1
+8) Нейронные сети: https://vk.com/wall-30666517_1183036
+9) Алгоритм создание лабиринта подземелья: http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
+10) Методы сжатия данных: https://habrahabr.ru/post/251295/
+11) Полигональная генерация карты: http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
+12) Как работает алгоритм Хаффмана в gzip: http://jvns.ca/blog/2015/02/22/how-gzip-uses-huffman-coding/
+13) Реализация арифметических операций при помощи сложения: https://tproger.ru/problems/methods-implements-divide-multiply-subtract-operations-using-addition/
+
+- - - - - Общее - - - - -
+1) 80 популярных вопросов на собеседовании: https://tproger.ru/articles/problems/
+2) Задачи на собеседование в яндексе: https://habrahabr.ru/company/yandex/blog/206234/
+3) 11 полезных навыков, которыми необходимо обладать: https://tproger.ru/translations/11-skills-you-need-to-master-to-land-a-100000-engineering-job-at-google/
+4) Написание собственного интерпретатора/компилятора: https://tproger.ru/translations/interpreter-compiler-jit/
+5) Создаем резюме в LaTEX: https://habrahabr.ru/post/187496/
+6) Книги по "чистому" коду: https://habrahabr.ru/company/piter/blog/241059/
+7) Курсы ШАД: https://yandexdataschool.ru/edu-process/courses
+8) 10 лучших сайтов для изучения программирования: http://pikabu.ru/story/_3144165
+google-drive. 
+9) Сборка книжек и многого по программированию: https://drive.google.com/folderview?id=0B0rzCWJBZlaWflRjZXFMeW5aWkNxY0NSNHN1X2x0ODlrSVpXMUVNaHhiTUNpanBSWnVZZHM&usp=sharing
+
+
+- - - - - Статьи - - - - -
+1) Разница в шаблонах cpp и дженериках java: https://tproger.ru/problems/explain-the-difference-between-the-patterns-in-c-and-c-and-generalizations
+2) 3D симуляция водной поверхности на NVIDIA PhisX: http://vk.com/doc235686439_422681729?hash=2829879a912dc75a7d&dl=b6956d1a971239959f
+3) Flat Assembler с нуля: http://vk.com/wall-30666517_1230421
+4) Написание собственного интерпретатора: https://ruslanspivak.com/lsbasi-part1/
+5) сборка кубика-рубика ген. алгоритмом: https://habrahabr.ru/post/260965/
+6) Философия программирования 1 — трёхнаправленное программирование: https://habrahabr.ru/post/247251/
+7) Философия программирования 2 — Миф и язык: https://habrahabr.ru/post/247363/
+8) Философия программирования 3 — Чичиков и программиат: https://habrahabr.ru/post/247619/
+9) Философия программирования 4 — Технология «Шапито»: https://habrahabr.ru/post/249839/
+10) Философия программирования 5 — Колибри и Реактос: https://habrahabr.ru/post/251793/
+11) Философия программирования 6 — Продукт и Проект: https://habrahabr.ru/post/254531/
+12) Что каждый программист должен знать о памяти: https://www.akkadia.org/drepper/cpumemory.pdf
+13) Шпаргалка по шаблонам проектирования: https://habrahabr.ru/post/210288/
+14) Введение в Scum и Canban: https://www.youtube.com/watch?v=vzhWe4FwRrA
+15) Что каждый программист должен знать про арифметику с плавающей точкой: http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+16) Что каждый программист должен знать про SEO: http://katemats.com/what-every-programmer-should-know-about-seo/
+17) Пиксель - это не маленький квадратик: http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
+18) Скроллинг движениями рукой при помощи эффекта Допплера: http://danielrapp.github.io/doppler/
+19) CamelCase или_подчеркивания_?: https://tproger.ru/translations/camelcase-vs-underscores-scientific-showdown/
+20) Основы работы компиляторов, парсинг: https://mortoray.com/2015/02/17/what-a-compiler-does-parsing/
+21) Unicode and Character Sets: http://www.joelonsoftware.com/articles/Unicode.html
+22) Создание собственного 3D - движка: https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0
+23) Зачем нужны конструкторы?: http://mat-mcloughlin.net/2015/02/22/have-we-forgotten-what-constructors-are-for/
+
+- - - - - Web - - - - -
+1) Видео-уроки по Bootstrap 3. https://www.youtube.com/watch?v=AYkEfr-5b1o
+2) Хорошие примеры css: http://www.prostoweb.com.ua/sozdanie_sayta/stati/18_potryasayuschih_primerov_css
+3) Выдвигающееся меню на css: https://www.youtube.com/watch?v=d4P8s-mkMvs
+4) Вертикальная централизация на css: https://www.youtube.com/watch?v=T5RIh4StIvs
+5) Магия одного Div (css): https://habrahabr.ru/company/paysto/blog/251933/
+6) Внутреннее скругление border-radius inset: https://habrahabr.ru/post/259603/
+7) Библиотека uilang - для упрощения работы с css: http://uilang.com/
+8) Введение в разработку слайд-шоу на JavaScript: https://habrahabr.ru/post/251783/
+9) Сладер на css: https://habrahabr.ru/post/252075/
+10) Руководство по современному Веб-фронтенду: https://tproger.ru/translations/web-frontend-guidelines/
+11) Проектирование Web API в 7 шагов: https://habrahabr.ru/company/geekfamily/blog/256495/
+12) Библиотеки для PHP: https://habrahabr.ru/post/252851/
+13) Готовый скелет для разработки веб-страницы: http://getskeleton.com/
+
+- - - - - OpenGl - - - - -
+1) OpenGl разработка игр. Стартовый урок: https://www.youtube.com/watch?v=VS8wlS9hF8E&index=1&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
+2) OpenGl туториалы: http://mbsoftworks.sk/index.php?page=tutorials&series=1
+3) Записки программиста. Изучение OpenGL (одна из статей): http://eax.me/opengl-vbo-vao-shaders/
+4) My Little OpenGL. Уроки по OpenGL: http://day9saidme.blogspot.ru/
+
+- - - - - Raspberry Pi, Arduino, контроллеры - - - - -
+1) Видеоуроки по работе с Arduino. Amperka: https://www.youtube.com/watch?v=bO_jN0Lpz3Q
+2) Уроки по работе с Raspberry PI для начинающих: http://edurobots.ru/raspberry-pi-dlya-nachinayushhix/
+3) Начало работы с Arduino: https://www.youtube.com/watch?v=ZbAqbnkv8WM
+4) Робот на RaspberryPi, Arduino и RaspiCam + OpenCV: https://geektimes.ru/post/255090/
+5) Взлом пароля на Mac с Arduino и OpenCV: https://habrahabr.ru/post/250347/
+6) Pikabu. Arduino. Закупки на aliexpress (Часть 1): http://pikabu.ru/story/_3548453
+7) Pikabu. Arduino. Закупки на aliexpress (Часть 2): http://pikabu.ru/story/_3549686
+8) Pikabu. Arduino. Закупки на aliexpress (Часть 3): http://pikabu.ru/story/_3550092
+9) Pikabu. Arduino. Начало: http://pikabu.ru/story/_3550918
+10) Pikabu. Arduino. ПО (Часть 1): http://pikabu.ru/story/_3552539
+11) Pikabu. Arduino. ПО (Часть 2): http://pikabu.ru/story/_3553199
+12) Pikabu. Arduino. Макетные платы: http://pikabu.ru/story/_3553591
+13) Pikabu. Arduino. Питание: http://pikabu.ru/story/_3554800
+14) Pikabu. Arduino. Контакты и шины: http://pikabu.ru/story/_3578216
+14) Pikabu. Arduino. Пишем метеостанцию: http://pikabu.ru/story/_3581413
+14) Pikabu. Arduino. Передача радиосигнала (Часть 1): http://pikabu.ru/story/_3636262
+14) Pikabu. Arduino. Передача радиосигнала (Часть 2): http://pikabu.ru/story/_3639880
+14) Pikabu. Arduino. Передача радиосигнала (Часть 3): http://pikabu.ru/story/_3640719
+14) Pikabu. Arduino. Подключение LCD-дисплея: http://pikabu.ru/story/_3681120
+
+- - - - - Java - - - - -
+1) Шпаргалка java-программиста: https://habrahabr.ru/company/luxoft/blog/280784/
+2) Java Fx - видео-туториалы: https://www.youtube.com/watch?v=EEcpMTpaWhs
+3) Java Fx - видео-туториалы. Ссылка на уроки на гитхабе: https://github.com/KriechelD/YouTubeChannel
+4) Многопоточность в Java: https://habrahabr.ru/post/164487/
+5) Java веб-фреймворки: https://xyclade.github.io/MachineLearning/
+6) Путь к Java Junior Developer: https://habrahabr.ru/post/203688/
+7) Учебник по Java FX - http://code.makery.ch/library/javafx-8-tutorial/ru/
+8) Создание exe-файла для java-программы: http://www.devbug.info/2011/04/exe-java.html
+9) Создание установщика для java-программы: http://www.pvsm.ru/java/33402/print/
+10) Распространенные ошибки java-новичков: https://habrahabr.ru/company/mailru/blog/251365/
+11) Горячие клавиши в IntelliJIDEA: https://github.com/steelhaus/interesting_urls/tree/master/src/intellijIDEA_shortcuts
+12) Простое клиентское приложение на javaFx: http://www.oracle.com/technetwork/ru/topics/java/default-424988-ru.html
+13) Простое приложение на Spring MVC: http://fuud-java.blogspot.ru/2011/02/spring-mvc-30-web.html
+14) Разработка фрактального кустика: https://habrahabr.ru/post/268405/
+15) Решение задачи FizzBuzz на Java 8: http://javarevisited.blogspot.ru/2015/04/fizzbuzz-solution-in-java-8.html
+16) Реализация RESTFul Web Service на java: https://habrahabr.ru/post/150034/
+17) Intellij IDEA. шорткаты: https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf
+18) Веб-приложение на чистой Java. Изучаем Vaadin: https://habrahabr.ru/company/xakep/blog/244477/
+19) 10 вещей про строки: http://javarevisited.blogspot.ru/2013/07/java-string-tutorial-and-examples-beginners-programming.html
+20) Уход от циклов в java 8: Swerving Away from Loops in Java 8
+21) Повторяющиеся аннотации в java 8: https://blog.idrsolutions.com/2015/03/java-8-repeating-annotation-explained-in-5-minutes/
+22) Грамотный дизайн приложений на java и C#: https://insidethecpu.com/2015/01/23/object-oriented-test-driven-design-in-c-and-java/
+23) Скрытые исключения в java: http://codejargon.blogspot.ru/2015/02/sneaky-exceptions.html?m=1
+34) О том, как Java оптимизирует циклы, оставляя возможность для отладки: http://vk.com/wall-30666517_1097883
+35) Шпаргалка java-программиста. Решение типовых задач. Luxoft: https://habrahabr.ru/company/luxoft/blog/278233/
+
+- - - - - Vim - - - - -
+1) Шпаргалка по работе в vim: http://eax.me/vim-commands/
+2) Snippets и шаблоны файлов: https://habrahabr.ru/post/260591/
+3) Learn Vim Progressively: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+4) Справочник по горячим клавишам в vim: https://habrahabr.ru/post/193176/#first_unread
+
+- - - - - Unity 3D и 2D - - - - -
+1) Арканоид на Unity. Часть 1 - Настройка проекта: https://tproger.ru/translations/build-arkanoid-with-unity-project-setup/
+2) Арканоид на Unity. Часть 2 - Механика игрока и мячика: https://tproger.ru/translations/build-arkanoid-with-unity-player-and-ball-mechanics/
+3) Арканоид на Unity. Часть 3 - Поведение блоков, дизайн уровней: https://tproger.ru/translations/build-arkanoid-with-unity-block-mechanics-prefabs-and-level-design/
+4) Арканоид на Unity. Часть 4 - Добавление звуков и новых унровней: https://tproger.ru/translations/build-arkanoid-with-unity-audio-new-levels-and-deployment/
+5) Разработка 2D-аркады на Unity. Часть 1: http://pikabu.ru/story/_3858542
+6) Разработка 2D-аркады на Unity. Часть 2: http://pikabu.ru/story/_3860698 
+7) Разработка 2D-аркады на Unity. Часть 3: http://pikabu.ru/story/_3872379
+8) Разработка 2D-аркады на Unity. Часть 4: http://pikabu.ru/story/_3874782
+9) Разработка 2D-аркады на Unity. Часть 4.5: http://pikabu.ru/story/_3883794
+10) Разработка 2D-аркады на Unity. Часть 5: http://pikabu.ru/story/_3886240
+11) Гоночная игра на Unity 3D: https://habrahabr.ru/post/247667/
+12) Разработка игры «Приключения печеньки». Часть 0: http://pikabu.ru/story/_2919582
+13) Разработка игры «Приключения печеньки». Часть 1: http://pikabu.ru/story/_2920554
+14) Разработка игры «Приключения печеньки». Часть 2: http://pikabu.ru/story/_2958456
+15) Разработка игры «Приключения печеньки». Часть 3: http://pikabu.ru/story/_2985938
+16) Разработка игры «Приключения печеньки». Часть 4: http://pikabu.ru/story/_3057931
+17) Разработка игры «Приключения печеньки». Часть 5: http://pikabu.ru/story/_3174735
+18) Разработка игры «Приключения печеньки». Часть 6: http://pikabu.ru/story/_3339224
+19) Моделирование 2D водной поверхности в Unity: https://tproger.ru/translations/creating-dynamic-2d-water-effects-in-unity/
+20) Создание механического шагающего муравья в Unity: https://www.youtube.com/watch?v=sJjfm0-T9Bc&list=PLomfhRzw8PUFd4EaqKa-QYWO7hxCmLC84
+21) Матрицы в Unity 3D: http://catlikecoding.com/unity/tutorials/rendering/part-1/
+22) Шейдеры в Unity 3D: http://catlikecoding.com/unity/tutorials/rendering/part-2/
+23) Введение в Unity 2D: https://www.raywenderlich.com/115688/introduction-unity-2d
+24) 2-D физика платформера: http://gamedevelopment.tutsplus.com/tutorials/basic-2d-platformer-physics-part-2--cms-25922
+
+- - - - - C++ - - - - -
+1) Ping-pong На C++: https://www.youtube.com/watch?v=IebKxsucu-s
+2) Начало программирования на C++. Уроки: https://www.youtube.com/watch?v=tAYt6bDW-YI
+3) Простые уроки по C++. Видео: https://www.youtube.com/watch?v=8rYPm7tUaO0&list=PL30625C8F5ADD5BB4
+4) C++. Вызов Pure virtual function: https://tproger.ru/problems/pure-virtual-function-call/
+5) Написание игры ASCII Roguelike за 2 часа: https://www.youtube.com/watch?v=tVWckBaB5xo
+6) Книги по C++: https://tproger.ru/translations/what-books-does-bjarne-stroustrup-suggest-to-master-cpp/
+7) Указатели в C++. Введение: https://habrahabr.ru/post/256443/
+8) Безопасность потоков в С++: https://tproger.ru/problems/safe-threads-in-cpp/
+
+- - - - - Unreal Engine 4 - - - - -
+1) Разработка 3D/VR на UE4. Часть 1: http://pikabu.ru/story/_4049869
+2) Разработка 3D/VR на UE4. Часть 2: http://pikabu.ru/story/_4093157
+3) Разработка 3D/VR на UE4. Часть 3: http://pikabu.ru/story/_4101206
+4) Разработка 3D/VR на UE4. Часть 4: http://pikabu.ru/story/_4037476
+5) Разработка 3D/VR на UE4. Продолжение искать у этого товарища: http://pikabu.ru/profile/Mealtris
+6) Гайд по оружию (элементарная информация): https://www.youtube.com/watch?v=K8lX4NF6YgU
+7) Гайд по гранатомету: http://shootertutorial.com/2015/06/20/create-an-grenade-launcher/
+8) Траектория снаряда: https://www.youtube.com/watch?v=Fkp50urxShg
+9) Гайд по созданию стрел: https://www.youtube.com/watch?v=4XtLA3bciaE
+10) Гайд по созданию танка: https://www.youtube.com/watch?v=Oh7pDL8RFaI
+11) Написание 2D-платформера: https://habrahabr.ru/post/237409/
+12) Написание сайдскроллера: https://forums.unrealengine.com/showthread.php?24522-Tutorial-Blueprint-Spline-locked-sidescroller-%28e-g-Klonoa-Pandemonium-style-game
+13) Гайд по оружию ближнего боя: https://www.youtube.com/watch?v=Bw7WMhMrmpc
+14) Написание top-down игры: https://www.youtube.com/watch?v=VtMwSduToZg
+15) Реализация AI: https://www.youtube.com/watch?v=VAAHKNoIg0w
+16) Основы AI (стрим): https://www.youtube.com/watch?v=evYE7tfWXUY
+17) Sensing AI (Зрение): https://www.youtube.com/watch?v=59INcP9Vsmo
+18) Основы ландшафта: https://www.youtube.com/watch?v=2Lx-drupqls
+19) Гайд по повороту персонажа к цели: https://www.youtube.com/watch?v=JQWIckh4XT0
+20) Написание дерева решений на C++: https://forums.unrealengine.com/showthread.php?130-Behavior-Tree-Tutorial
+21) Видео-туториалы по ue4: https://www.youtube.com/watch?v=QIvcTwlosMQ&list=PLwqnA65RFUf-8xIFQYV8Zjziv4gUqjLZ_
+22) Туториалы по ue4: http://shootertutorial.com/tutorials/
+23) Процедурное добавление сплайн-мешей: https://www.youtube.com/watch?v=7YUxM0NDWRY
+24) Настройка персонажа. Часть 1: https://www.youtube.com/watch?v=UmPhU62_jos
+25) Настройка персонажа. Часть 2: https://www.youtube.com/watch?v=owmVuYuvCo0
+26) Интересно воссоздать. Гарпун с веревкой: https://www.youtube.com/watch?v=b8Y2zVFZCg0
+27) Интересно воссоздать. Классная реализация шутера: https://www.youtube.com/watch?v=KVkSZR8KE4w
+28) Интересно воссоздать. Суперспособности персонажа: https://www.youtube.com/watch?v=-kn8xwa50O8
+
+- - - - - Книги - - - - -
+1) Подборка фантастики: http://pikabu.ru/story/_3973698
+2) Подборка антиутопии: http://www.adme.ru/tvorchestvo-pisateli/15-knig-antiutopij-kotorye-izmenyat-vashe-mnenie-ob-idealnom-mire-723410/
+3) Подборка фентези 1: http://pikabu.ru/story/_3379955
+4) Подборка фентези 2: http://pikabu.ru/story/_3382351
+5) Подборка фентези 3: http://pikabu.ru/story/_4155359
+6) Квантовая механика: https://habrahabr.ru/company/piter/blog/247787/
+7) Книги для прокачки мозгов: https://habrahabr.ru/company/piter/blog/250121/
+8) Гарри Поттер и методы рационального мышления: http://hpmor.ru/
+9) Подборка по киберпанку: http://pikabu.ru/story/knigi_zhanra_quotkiberpankquot_3275060
+10) Карьера программиста. Как устроиться на работу в Google, Microsoft или другую ведущую IT-компанию: http://www.piter.com/product/kariera-programmista-kak-ustroitsya-na-rabotu-v-google-microsoft-ili-druguyu-veduschuyu-it-kompaniyu-2
+
+- - - - - Git - - - - -
+1) Шпаргалка по работе с git: http://eax.me/git-commands/
+2) Ежедневная работа с git: https://habrahabr.ru/post/174467/
+3) Git быстрый старт. Видеокурс: https://geekbrains.ru/courses/66?utm_source=vk.com&utm_medium=social&utm_term=git_quick_start&utm_campaign=tp_ad_22.10.15
+4) Видеоуроки git: https://www.youtube.com/watch?v=PEKN8NtBDQ0
+5) Интерактивный курс изучения бранчинга git: http://pcottle.github.io/learnGitBranching/?demo
+6) tproger. По тегу "гит": https://tproger.ru/tag/git/
+7) github для новичков: https://www.youtube.com/watch?v=0fKg7e37bQE
+8) Интересная шпаргалка по Гит: http://ndpsoftware.com/git-cheatsheet.html
+9) Самые типичные ошибки/вопросы по git и способы их решения: https://tproger.ru/translations/most-common-git-screwupsquestions-and-solutions/
+10) Статья "Иногда гит подходит для хранения бинарников": http://asynch.ro/blog/2015/03/04/git-is-actually-ok-for-some-binaries/
+11) Видеоурок по git: https://www.youtube.com/watch?v=RiYz59qVypg
+12) Интерактивный курс по git: https://githowto.com/ru
+13) 19 полезных подсказок по git: http://www.alexkras.com/19-git-tips-for-everyday-use
+
+- - - - - Криптография - - - - -
+1) Основы криптографии: https://www.youtube.com/watch?v=mlMcNWTwxMw
+2) Курсы этичного хакинга. начальная подготовка: https://habrahabr.ru/company/pentestit/blog/260361/
+3) Книга Компьютер глазами Хакера: http://vk.com/wall-63708206_60166
+
+- - - - - Gamedev - - - - -
+1) Сайты с бесплатной графикой для игр: http://pikabu.ru/story/_3903473
+2) Хитрости создания игровых уровней: https://habrahabr.ru/post/274483/
+3) Процедурная генерация Карт мира на Unity, C#: https://habrahabr.ru/post/276551/
+4) Шаги разработки игр: https://tproger.ru/translations/making-your-first-game-a-walkthrough-for-game-developers/
+5) Игра за 10 минут. C++/OpenGL. Сапер: https://www.youtube.com/watch?v=vqJQoangCSw
+6) Игра за 10 минут. C++/OpenGL. Шашки: https://www.youtube.com/watch?v=18w2kpn5b9g
+7) Игра за 10 минут. C++/OpenGL. Астероиды: https://www.youtube.com/watch?v=7iAG0qObDbA
+8) Игра за 10 минут. C++/OpenGL. Змейка: https://www.youtube.com/watch?v=GiZGEFBGgKU
+9) Игра за 10 минут. C++/OpenGL. Арканоид: https://www.youtube.com/watch?v=4jMSVaQfoEQ
+10) Игра за 10 минут. C++/OpenGL. Тетрис: https://www.youtube.com/watch?v=q1bHWvpMqtI
+11) Философия создания сетевых игр: https://www.youtube.com/watch?v=AdfUw0Ouqyc
+12) C чего начать изучать игрострой: http://pikabu.ru/story/_3899281
+13) История создания ландшафта на Unity за 24 часа: https://tproger.ru/articles/unity-terrain-24-hours/
+14) Разработка простой игры на Direct3D 9: https://habrahabr.ru/post/251081/
+15) Пишем бота для MMORPG с ассемблером и дренейками. Часть 0: https://habrahabr.ru/post/251137/
+16) Тригонометрия для игр: https://www.raywenderlich.com/90520/trigonometry-games-sprite-kit-swift-tutorial-part-1
+17) Основы боевой системы в играх: https://habrahabr.ru/post/253697/
+18) Создание естественных путей на ландшафте при помощи методов поиска путей: http://www.gamasutra.com/blogs/RuneSkovboJohansen/20160310/267670/Creating_natural_paths_on_terrains_using_pathfinding.php
+19) Конечные автоматы: http://www.gamasutra.com/blogs/JeanSimonet/20160310/267441/Beyond_the_State_Machine.php
+20) Что каждый программист должен знать о сетевых играх: http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/
+
+- - - - - Мобильный Gamedev - - - - -
+1) Разработка и адаптация игр под мобильные платформы: https://habrahabr.ru/company/intel/blog/144241/
+2) Ответы разработчика игр: http://pikabu.ru/story/_3943470
+3) cocos2D - движок для 2D игр: http://cocos2d.spritebuilder.com/
+4) Архитектурный дизайн мобильных приложений: часть 1: https://habrahabr.ru/company/redmadrobot/blog/246551/
+5) Архитектурный дизайн мобильных приложений: часть 2: https://habrahabr.ru/company/redmadrobot/blog/251337/
+6) Оптимизация iOS - игр: http://nukecode.blogspot.ru/2012/10/leran-ios-game-development-hard-way.html
+7) Как начать разрабатывать под Android: https://tproger.ru/translations/how-to-start-android/
+8) Хоткеи Android Studio: https://habrahabr.ru/post/253639/
+9) Бесплатная онлайн школа Android-разработчиков: https://habrahabr.ru/company/e-Legion/blog/254091/
+10) Android Application Development Tutorial: https://www.youtube.com/watch?v=qTv9gcshf8Q
+11) Push-уведомления в android: https://tproger.ru/translations/adventures-in-android-user-notifications/
+
+- - - - - Дизайн - - - - -
+1) Пиксель-арт для начинающих (часть 1): http://pikabu.ru/story/_3918181
+2) Пиксель-арт для начинающих (часть 2): http://pikabu.ru/story/_3920715
+3) Пиксель-арт для начинающих (часть 3): http://pikabu.ru/story/_3923038
+4) Игра, которая учит правильно кёрнить: http://type.method.ac/#
+5) Игра, обучающая чувствовать цвет: http://color.method.ac/
+6) Каталог бесплатных шрифтов для использования: http://webfont.ru/
+7) Коды для ASCII - букв: http://character-code.com/
+8) Сервис для просмотра одного изображения в различных разрешениях: https://www.sizzlepig.com/
+9) Онлайн создание мокапов: http://frame.lab25.co.uk/
+10) Генератор хипстерских логотипов: http://www.hipsterlogogenerator.com/
+
+- - - - - Autodesk 3ds Max - - - - -
+1) Моделирование. Часть 1: Введение. Интерфейс: https://www.youtube.com/watch?v=Osb-voVTsQU
+2) Моделирование. Часть 2: Окна проекций: https://www.youtube.com/watch?v=03-WxS1efT0
+3) Моделирование. Часть 3: Инструменты: https://www.youtube.com/watch?v=0-S1c3F0Fr0
+4) Моделирование. Часть 4: Горячие клавиши: https://www.youtube.com/watch?v=YkkSftuucGg
+5) Моделирование. Часть 5: Введение в создание простейших объектов: https://www.youtube.com/watch?v=-_jOiMBMXX4
+6) Моделирование. Часть 6: Создание и изменение объектов: https://www.youtube.com/watch?v=xuAmN7_Lcpg
+7) Моделирование. Часть 7: Дублирование объектов: https://www.youtube.com/watch?v=OYj_UbJwy0g
+8) Моделирование. Часть 8: Практическое занятие: https://www.youtube.com/watch?v=YmZ_snfPMEA
+9) Моделирование. Часть 9: Система координат: https://www.youtube.com/watch?v=gUUqVMg3cPA
+10) Моделирование. Часть 10: Привязки: https://www.youtube.com/watch?v=cc9CF6pTa1k
+11) Моделирование. Часть 11: Опорные точки: https://www.youtube.com/watch?v=Af5SuYE1hVQ
+12) Моделирование. Часть 12: Группировка: https://www.youtube.com/watch?v=Fb4XZKmJWdI
+13) Моделирование. Часть 13: Практическое занятие: https://www.youtube.com/watch?v=N1Zk_4vl4VY
+14) Моделирование. Часть 14: Выравнивание: https://www.youtube.com/watch?v=rkdveN3-CD0
+15) Моделирование. Часть 15: Массивы: https://www.youtube.com/watch?v=pjFxXeu2qp8
+16) Моделирование. Часть 16: Копирование по пути: https://www.youtube.com/watch?v=FZV4hWHj648
+17) Моделирование. Часть 17: Модификаторы — часть 1: https://www.youtube.com/watch?v=JfzMzPToFCk
+18) Моделирование. Часть 18: Модификаторы — часть 2: https://www.youtube.com/watch?v=bAYQnTGlukA
+19) Моделирование. Часть 19: Сплайны — основы: https://www.youtube.com/watch?v=WqRYh0AZe-g
+20) Моделирование. Часть 20: Сплайны — редактирование: https://www.youtube.com/watch?v=rbjKS8FBSw0
+21) Моделирование. Часть 21:Модификаторы сплайнов: https://www.youtube.com/watch?v=DiCJIBwd9PA
+22) Моделирование. Часть 22: Практическое занятие: https://www.youtube.com/watch?v=KpufGTCWvdY
+23) Моделирование. Часть 23: Составные объекты: https://www.youtube.com/watch?v=gjEak3EnDLM
+24) Моделирование. Часть 24: Полигональное моделирование: https://www.youtube.com/watch?v=LEhje3EtCgA
+25) Моделирование. Часть 25: Редактирование полигонов: https://www.youtube.com/watch?v=G6WEVUnDHfo
+26) Моделирование. Часть 26: Модификаторы: https://www.youtube.com/watch?v=F47lc5pveTY
+27) Моделирование. Часть 27: Практическое занятие: https://www.youtube.com/watch?v=ZYet_Vqjt70
+28) Моделирование. Часть 28: Наложение материалов: https://www.youtube.com/watch?v=qqq0S-i_G3A
+29) Моделирование. Часть 29: Материал Standard: https://www.youtube.com/watch?v=QBoTbfYG32M
+30) Моделирование. Часть 30: Процедурная карта Bitmap: https://www.youtube.com/watch?v=tq6VUy-87ek
+31) Моделирование. Часть 31: Наложение нескольких материалов на один объект: https://www.youtube.com/watch?v=jWiVVzWtBxs
+32) Моделирование. Часть 32: Карта UVW: https://www.youtube.com/watch?v=n78DLrpEoEk
+33) Моделирование. Часть 33: Практическое занятие: https://www.youtube.com/watch?v=vDIHUvi8ckk
+34) Моделирование. Часть 34: Разворот UVW: https://www.youtube.com/watch?v=1kAc5cTqTB0
+35) Моделирование. Часть 35: Визуализация Mental Ray: https://www.youtube.com/watch?v=e6ic98yGuYA
+36) Моделирование. Часть 36: Материал Arc&Design: https://www.youtube.com/watch?v=-TeZ6Po41PY
+37) Моделирование. Часть 37: Работа со светом: https://www.youtube.com/watch?v=JETpXhrVpGw
+38) Моделирование. Часть 38: Камера: https://www.youtube.com/watch?v=RpqiaBJMm3Y
+39) Моделирование. Часть 39: Основные принципы анимации: https://www.youtube.com/watch?v=oYTsHLI-zy8
+40) Моделирование. Часть 40: Основные настройки системы: https://www.youtube.com/watch?v=F2yOoqk16zQ
+41) Autodesk. Создание рапиры. Видео. https://www.youtube.com/watch?v=GOPSupgr3d8
+
+- - - - - Photoshop - - - - -
+1) Уроки по фотошопу: http://pikabu.ru/story/_3901569
+2) Photoshop. Rainy Jungle: https://www.youtube.com/watch?v=85tOWpbH4m0
+3) Photoshop. Sand Storm: https://www.youtube.com/watch?v=x8cgJqIb95Y
+4) Photoshop. Rain Effect: https://www.youtube.com/watch?v=AXQSaMZlA5s
+5) Photoshop. Today Is My Day: https://www.youtube.com/watch?v=HyMXRCMb5A8
+6) Photoshop. Landscape Tutorial: https://www.youtube.com/watch?v=G-xeWTDyjHg
+7) Photoshop. Dark Light Effects Tutorial: https://www.youtube.com/watch?v=1IuXSsUbdU8
+8) Photoshop. Effects for Photographers: https://www.youtube.com/watch?v=Q5u7d2piCpQ
+9) Photoshop. Smoke Effect: https://www.youtube.com/watch?v=XD9vsCJUcZY
+10) Photoshop. Portrait Effect: https://www.youtube.com/watch?v=UlaHsxMls0M
+11) Создаем реалистичный объект на текстуре: http://pikabu.ru/story/_3549403
+
+- - - - - Objective-C - - - - -
+1) Objective-C. ЧТо нужно знать middle-разработчику: https://habrahabr.ru/post/273487/
+2) Уроки по Objective-C. Часть 1: https://vk.com/tproger?w=wall-30666517_1223845
+3) Уроки по Objective-C. Часть 2: https://vk.com/tproger?w=wall-30666517_1226060
+
+- - - - - Swift - - - - -
+1) Пять ловушек для начинающего свифтера: https://habrahabr.ru/post/251325/
+2) Swift. Видеокурс: https://www.youtube.com/watch?v=WNMFljBCOP8
+3) Swift-book. Сайт с уроками программирования на Swift: http://swiftbook.ru/start-page
+4) Книга «Основы разработки приложений под iOS» : http://4treaty.ru/programmirovanie/swift_osnovy_razrabotki_prilozhienii_pod_ios_5007.html
+5) 11 крутых сайтов для iOS разработчиков: https://habrahabr.ru/post/252073/
+
+- - - - - Python - - - - -
+1) Интересные библиотеки для питона: http://blog.yhat.com/posts/11-python-libraries-you-might-not-know.html
+2) Методический подход изучения питона: https://realpython.com/blog/python/learn-python-the-methodical-way/
+3) Пишем движок автодополнения на Python: http://scottlobdell.me/2015/02/writing-autocomplete-engine-scratch-python/
+4) Ищем прямоугольники без OpenCV на Python: https://www.homeworkhelponline.net/blog/programming/find-rectangles
+5) Сравнение изображений на Python: https://7webpages.com/blog/image-duplicates-detection-python/
+
+- - - - - R - - - - -
+1) Много инфы по R у Демешева. HSE: https://github.com/bdemeshev/em301/wiki/R
+2) Введение в R: http://mpoctok.narod.ru/r/intro.htm
+
+- - - - - Немножко математики - - - - -
+1) Преобразование девиации и его использование для определения системы координат по набору расстояний: https://habrahabr.ru/post/262601/
+2) Спектры расстояний простых наборов и их объединений (часть 2): https://habrahabr.ru/post/262703/
+3) Корреляция, ковариация и девиация (часть 3): https://habrahabr.ru/post/263907/
+4) Сказ царя Салтана о потенциале лапласиана: https://habrahabr.ru/post/280610/
+5) Тензоры, нейросети, байесовский вывод: https://habrahabr.ru/company/yandex/blog/261245/
+6) CSC. Лекториум. Основы математики. Лекция 1: https://www.youtube.com/watch?v=zIYfYT5THDY
+7) CSC. Лекториум. Основы математики. Лекция 2: https://www.youtube.com/watch?v=FXtxcGne8S0
+8) CSC. Лекториум. Основы математики. Лекция 3: https://www.youtube.com/watch?v=N4yyO59eJ_U
+9) CSC. Лекториум. Основы математики. Лекция 4: https://www.youtube.com/watch?v=nCTrxFuT0kA
+10) CSC. Лекториум. Основы математики. Лекция 5: https://www.youtube.com/watch?v=kKnnoxsZRB4
+11) CSC. Лекториум. Основы математики. Лекция 6: https://www.youtube.com/watch?v=k9adhQFQEBU
+12) CSC. Лекториум. Основы математики. Лекция 7: https://www.youtube.com/watch?v=JKe97hw16nI
+13) CSC. Лекториум. Основы математики. Лекция 8: https://www.youtube.com/watch?v=dHxadRXE1fI
+14) CSC. Лекториум. Основы математики. Лекция 9: https://www.youtube.com/watch?v=eYpGdKaSrFE
+15) Простенько о матлогике: http://mathhelpplanet.com/static.php?p=matematicheskaya-logika-i-yazyki-programmirovaniya
+16) Лекции по матлогике: http://mathmod.bmstu.ru/Docs/Eduwork/ml/ml.html
+
+
