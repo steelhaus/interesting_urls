@@ -1,282 +1,282 @@
-<a href=Фhttp://www.google.ruХ>игры:</a>
-игры про божественность: http://pikabu.ru/story/divinity_games_bozhestvennost_v_videoigrakh_chast_1_4141670
-милые игры типа Unravel: http://pikabu.ru/story/_4059551
-как пластилиновые фигурки становятся фигруками на экране: http://pikabu.ru/story/_3994327
-Интересная игра, в которой нужно программировать (Javascript) для прохождения: https://alexnisnevich.github.io/untrusted/
-Human REsource Mashine - очередная игра с программированием: http://pikabu.ru/story/_3718179
-игра Astroneer: https://geektimes.ru/post/263622/
-игры для слабых компьютеров: http://vk.com/wall-31076033_80836
-На что влияют настройки графики в играх (1): https://vk.com/page-83484759_50198758
-На что влияют настройки графики в играх (2): https://vk.com/page-83484759_50198925
-Игры для обучения программированию (12 штук): https://habrahabr.ru/company/ilkfinkom/blog/251583/
+<a href='http://www.google.ru'>РёРіСЂС‹:</a>
+РёРіСЂС‹ РїСЂРѕ Р±РѕР¶РµСЃС‚РІРµРЅРЅРѕСЃС‚СЊ: http://pikabu.ru/story/divinity_games_bozhestvennost_v_videoigrakh_chast_1_4141670
+РјРёР»С‹Рµ РёРіСЂС‹ С‚РёРїР° Unravel: http://pikabu.ru/story/_4059551
+РєР°Рє РїР»Р°СЃС‚РёР»РёРЅРѕРІС‹Рµ С„РёРіСѓСЂРєРё СЃС‚Р°РЅРѕРІСЏС‚СЃСЏ С„РёРіСЂСѓРєР°РјРё РЅР° СЌРєСЂР°РЅРµ: http://pikabu.ru/story/_3994327
+РРЅС‚РµСЂРµСЃРЅР°СЏ РёРіСЂР°, РІ РєРѕС‚РѕСЂРѕР№ РЅСѓР¶РЅРѕ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°С‚СЊ (Javascript) РґР»СЏ РїСЂРѕС…РѕР¶РґРµРЅРёСЏ: https://alexnisnevich.github.io/untrusted/
+Human REsource Mashine - РѕС‡РµСЂРµРґРЅР°СЏ РёРіСЂР° СЃ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµРј: http://pikabu.ru/story/_3718179
+РёРіСЂР° Astroneer: https://geektimes.ru/post/263622/
+РёРіСЂС‹ РґР»СЏ СЃР»Р°Р±С‹С… РєРѕРјРїСЊСЋС‚РµСЂРѕРІ: http://vk.com/wall-31076033_80836
+РќР° С‡С‚Рѕ РІР»РёСЏСЋС‚ РЅР°СЃС‚СЂРѕР№РєРё РіСЂР°С„РёРєРё РІ РёРіСЂР°С… (1): https://vk.com/page-83484759_50198758
+РќР° С‡С‚Рѕ РІР»РёСЏСЋС‚ РЅР°СЃС‚СЂРѕР№РєРё РіСЂР°С„РёРєРё РІ РёРіСЂР°С… (2): https://vk.com/page-83484759_50198925
+РРіСЂС‹ РґР»СЏ РѕР±СѓС‡РµРЅРёСЏ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЋ (12 С€С‚СѓРє): https://habrahabr.ru/company/ilkfinkom/blog/251583/
 
 SQL
-изучение oracle pl/sql по шагам: http://www.firststeps.ru/sql/oracle/oracle1.html
-Вопросы при собеседовании по sql: http://java67.blogspot.ru/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html
-ADO.NET и основы запросов SQL: https://www.youtube.com/watch?v=3tpow7-cxdU&list=PLnV3K-pmuXwgXumxcXQ3LDqFXWhPVCcqj&index=1
-Профилактика SQL-инъекций: https://habrahabr.ru/post/87872/
-SQL Server шаг за шагом: http://www.firststeps.ru/sql/sql1.html
-Введение в SQL: http://www.mysql.ru/docs/gruber/
+РёР·СѓС‡РµРЅРёРµ oracle pl/sql РїРѕ С€Р°РіР°Рј: http://www.firststeps.ru/sql/oracle/oracle1.html
+Р’РѕРїСЂРѕСЃС‹ РїСЂРё СЃРѕР±РµСЃРµРґРѕРІР°РЅРёРё РїРѕ sql: http://java67.blogspot.ru/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html
+ADO.NET Рё РѕСЃРЅРѕРІС‹ Р·Р°РїСЂРѕСЃРѕРІ SQL: https://www.youtube.com/watch?v=3tpow7-cxdU&list=PLnV3K-pmuXwgXumxcXQ3LDqFXWhPVCcqj&index=1
+РџСЂРѕС„РёР»Р°РєС‚РёРєР° SQL-РёРЅСЉРµРєС†РёР№: https://habrahabr.ru/post/87872/
+SQL Server С€Р°Рі Р·Р° С€Р°РіРѕРј: http://www.firststeps.ru/sql/sql1.html
+Р’РІРµРґРµРЅРёРµ РІ SQL: http://www.mysql.ru/docs/gruber/
 
 C#
-Пишем многопользовательский чат на C# за 15 минут: https://habrahabr.ru/post/252021/
-AJAX в ASP.NET: http://wladm.narod.ru/C_Sharp/ajax.html
-Бот для сапера: https://habrahabr.ru/post/267047/
-Приступаем к созданию веб-приложений ASP.NET MVC 4: https://mva.microsoft.com/ru/training-courses/-asp-net-mvc-4-8239?l=S2FLVKQ5_1604984382
-Вопросы на собеседовании C#, Net, ASP.NET, SQL: http://www.coding4.net/post/post-by-inbruk-20130324-0052-813.aspx
-Темы собеседования на должность ASP.NET разработчика: http://www.coding4.net/post/post-by-tiberian-20130315-0055-205.aspx
-Вопросы на собеседовании по ASP.NET с ответами: http://www.coding4.net/post/post-by-tiberian-20130314-2045-383.aspx
-Нехитрые Советы для программиста C#: http://npk-kaluga.ru/AdvisesCS.htm
+РџРёС€РµРј РјРЅРѕРіРѕРїРѕР»СЊР·РѕРІР°С‚РµР»СЊСЃРєРёР№ С‡Р°С‚ РЅР° C# Р·Р° 15 РјРёРЅСѓС‚: https://habrahabr.ru/post/252021/
+AJAX РІ ASP.NET: http://wladm.narod.ru/C_Sharp/ajax.html
+Р‘РѕС‚ РґР»СЏ СЃР°РїРµСЂР°: https://habrahabr.ru/post/267047/
+РџСЂРёСЃС‚СѓРїР°РµРј Рє СЃРѕР·РґР°РЅРёСЋ РІРµР±-РїСЂРёР»РѕР¶РµРЅРёР№ ASP.NET MVC 4: https://mva.microsoft.com/ru/training-courses/-asp-net-mvc-4-8239?l=S2FLVKQ5_1604984382
+Р’РѕРїСЂРѕСЃС‹ РЅР° СЃРѕР±РµСЃРµРґРѕРІР°РЅРёРё C#, Net, ASP.NET, SQL: http://www.coding4.net/post/post-by-inbruk-20130324-0052-813.aspx
+РўРµРјС‹ СЃРѕР±РµСЃРµРґРѕРІР°РЅРёСЏ РЅР° РґРѕР»Р¶РЅРѕСЃС‚СЊ ASP.NET СЂР°Р·СЂР°Р±РѕС‚С‡РёРєР°: http://www.coding4.net/post/post-by-tiberian-20130315-0055-205.aspx
+Р’РѕРїСЂРѕСЃС‹ РЅР° СЃРѕР±РµСЃРµРґРѕРІР°РЅРёРё РїРѕ ASP.NET СЃ РѕС‚РІРµС‚Р°РјРё: http://www.coding4.net/post/post-by-tiberian-20130314-2045-383.aspx
+РќРµС…РёС‚СЂС‹Рµ РЎРѕРІРµС‚С‹ РґР»СЏ РїСЂРѕРіСЂР°РјРјРёСЃС‚Р° C#: http://npk-kaluga.ru/AdvisesCS.htm
 ASP.NET AJAX Control Toolkit: http://professorweb.ru/my/ASP_NET/sites/level5/5_11.php
-Интернет магазин на ASP.NET: http://professorweb.ru/my/ASP_NET/gamestore/level1/
+РРЅС‚РµСЂРЅРµС‚ РјР°РіР°Р·РёРЅ РЅР° ASP.NET: http://professorweb.ru/my/ASP_NET/gamestore/level1/
 
-общее по программированию
-80 популярных вопросов на собеседовании: https://tproger.ru/articles/problems/
-общие алгоритмы по машинному обучению: https://xyclade.github.io/MachineLearning/
-Разница в шаблонах cpp и дженериках java: https://tproger.ru/problems/explain-the-difference-between-the-patterns-in-c-and-c-and-generalizations
-Ищем прямоугольники без OpenCV на Python: https://www.homeworkhelponline.net/blog/programming/find-rectangles
-Сравнение изображений на Python: https://7webpages.com/blog/image-duplicates-detection-python/
-11 полезных навыков, которыми необходимо обладать: https://tproger.ru/translations/11-skills-you-need-to-master-to-land-a-100000-engineering-job-at-google/
-Написание собственного интерпретатора/компилятора: https://tproger.ru/translations/interpreter-compiler-jit/
-3D симуляция водной поверхности на NVIDIA PhisX: http://vk.com/doc235686439_422681729?hash=2829879a912dc75a7d&dl=b6956d1a971239959f
-Алгоритмы, которые должен знать любой программист: https://tproger.ru/experts/7/
-Нейронные сети. Подборка: http://vk.com/wall-30666517_1227814
-Flat Assembler с нуля: http://vk.com/wall-30666517_1230421
-Написание собственного интерпретатора: https://ruslanspivak.com/lsbasi-part1/
-Сложности алгоритмов: https://habrahabr.ru/post/188010/
-графы и нахождение путей: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWO7p6xpTzs-QR58DRg2Ln0V
-Нахождение путей. Графы: https://www.youtube.com/watch?v=y1q5ZkD52LE&list=PLW3Zl3wyJwWO7p6xpTzs-QR58DRg2Ln0V&index=1
-нейронные сети: https://vk.com/wall-30666517_1183036
-Создаем резюме в LaTEX: https://habrahabr.ru/post/187496/
-книги по "чистому" коду: https://habrahabr.ru/company/piter/blog/241059/
-Алгоритм создание лабиринта подземелья: http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
-Методы сжатия данных: https://habrahabr.ru/post/251295/
-Полигональная генерация карты: http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
-задачи на собеседование в яндексе: https://habrahabr.ru/company/yandex/blog/206234/
-курсы ШАД: https://yandexdataschool.ru/edu-process/courses
-10 лучших сайтов для изучения программирования: http://pikabu.ru/story/10_luchshikh_saytov_dlya_izucheniya_programmirovaniya_3144165
-google-drive. Сборка книжек и многого по программированию: https://drive.google.com/folderview?id=0B0rzCWJBZlaWflRjZXFMeW5aWkNxY0NSNHN1X2x0ODlrSVpXMUVNaHhiTUNpanBSWnVZZHM&usp=sharing
-Простенько о матлогике: http://mathhelpplanet.com/static.php?p=matematicheskaya-logika-i-yazyki-programmirovaniya
-Лекции по матлогике: http://mathmod.bmstu.ru/Docs/Eduwork/ml/ml.html
-сборка кубика-рубика ген. алгоритмом: https://habrahabr.ru/post/260965/
-Взлом пароля на Mac с Arduino и OpenCV: https://habrahabr.ru/post/250347/
-Философия программирования 1 — трёхнаправленное программирование: https://habrahabr.ru/post/247251/
-Философия программирования 2 — Миф и язык: https://habrahabr.ru/post/247363/
-Философия программирования 3 — Чичиков и программиат: https://habrahabr.ru/post/247619/
-Философия программирования 4 — Технология «Шапито»: https://habrahabr.ru/post/249839/
-Философия программирования 5 — Колибри и Реактос: https://habrahabr.ru/post/251793/
-Философия программирования 6 — Продукт и Проект: https://habrahabr.ru/post/254531/
-Шпаргалка по шаблонам проектирования: https://habrahabr.ru/post/210288/
-Сложности алгоритмов: http://bigocheatsheet.com/
-Онлайн-задачи по программированию: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
-Головоломки на ТП: https://tproger.ru/tag/brain-teasers/
-Введение в Scum и Canban: https://www.youtube.com/watch?v=vzhWe4FwRrA
+РѕР±С‰РµРµ РїРѕ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЋ
+80 РїРѕРїСѓР»СЏСЂРЅС‹С… РІРѕРїСЂРѕСЃРѕРІ РЅР° СЃРѕР±РµСЃРµРґРѕРІР°РЅРёРё: https://tproger.ru/articles/problems/
+РѕР±С‰РёРµ Р°Р»РіРѕСЂРёС‚РјС‹ РїРѕ РјР°С€РёРЅРЅРѕРјСѓ РѕР±СѓС‡РµРЅРёСЋ: https://xyclade.github.io/MachineLearning/
+Р Р°Р·РЅРёС†Р° РІ С€Р°Р±Р»РѕРЅР°С… cpp Рё РґР¶РµРЅРµСЂРёРєР°С… java: https://tproger.ru/problems/explain-the-difference-between-the-patterns-in-c-and-c-and-generalizations
+РС‰РµРј РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРєРё Р±РµР· OpenCV РЅР° Python: https://www.homeworkhelponline.net/blog/programming/find-rectangles
+РЎСЂР°РІРЅРµРЅРёРµ РёР·РѕР±СЂР°Р¶РµРЅРёР№ РЅР° Python: https://7webpages.com/blog/image-duplicates-detection-python/
+11 РїРѕР»РµР·РЅС‹С… РЅР°РІС‹РєРѕРІ, РєРѕС‚РѕСЂС‹РјРё РЅРµРѕР±С…РѕРґРёРјРѕ РѕР±Р»Р°РґР°С‚СЊ: https://tproger.ru/translations/11-skills-you-need-to-master-to-land-a-100000-engineering-job-at-google/
+РќР°РїРёСЃР°РЅРёРµ СЃРѕР±СЃС‚РІРµРЅРЅРѕРіРѕ РёРЅС‚РµСЂРїСЂРµС‚Р°С‚РѕСЂР°/РєРѕРјРїРёР»СЏС‚РѕСЂР°: https://tproger.ru/translations/interpreter-compiler-jit/
+3D СЃРёРјСѓР»СЏС†РёСЏ РІРѕРґРЅРѕР№ РїРѕРІРµСЂС…РЅРѕСЃС‚Рё РЅР° NVIDIA PhisX: http://vk.com/doc235686439_422681729?hash=2829879a912dc75a7d&dl=b6956d1a971239959f
+РђР»РіРѕСЂРёС‚РјС‹, РєРѕС‚РѕСЂС‹Рµ РґРѕР»Р¶РµРЅ Р·РЅР°С‚СЊ Р»СЋР±РѕР№ РїСЂРѕРіСЂР°РјРјРёСЃС‚: https://tproger.ru/experts/7/
+РќРµР№СЂРѕРЅРЅС‹Рµ СЃРµС‚Рё. РџРѕРґР±РѕСЂРєР°: http://vk.com/wall-30666517_1227814
+Flat Assembler СЃ РЅСѓР»СЏ: http://vk.com/wall-30666517_1230421
+РќР°РїРёСЃР°РЅРёРµ СЃРѕР±СЃС‚РІРµРЅРЅРѕРіРѕ РёРЅС‚РµСЂРїСЂРµС‚Р°С‚РѕСЂР°: https://ruslanspivak.com/lsbasi-part1/
+РЎР»РѕР¶РЅРѕСЃС‚Рё Р°Р»РіРѕСЂРёС‚РјРѕРІ: https://habrahabr.ru/post/188010/
+РіСЂР°С„С‹ Рё РЅР°С…РѕР¶РґРµРЅРёРµ РїСѓС‚РµР№: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWO7p6xpTzs-QR58DRg2Ln0V
+РќР°С…РѕР¶РґРµРЅРёРµ РїСѓС‚РµР№. Р“СЂР°С„С‹: https://www.youtube.com/watch?v=y1q5ZkD52LE&list=PLW3Zl3wyJwWO7p6xpTzs-QR58DRg2Ln0V&index=1
+РЅРµР№СЂРѕРЅРЅС‹Рµ СЃРµС‚Рё: https://vk.com/wall-30666517_1183036
+РЎРѕР·РґР°РµРј СЂРµР·СЋРјРµ РІ LaTEX: https://habrahabr.ru/post/187496/
+РєРЅРёРіРё РїРѕ "С‡РёСЃС‚РѕРјСѓ" РєРѕРґСѓ: https://habrahabr.ru/company/piter/blog/241059/
+РђР»РіРѕСЂРёС‚Рј СЃРѕР·РґР°РЅРёРµ Р»Р°Р±РёСЂРёРЅС‚Р° РїРѕРґР·РµРјРµР»СЊСЏ: http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
+РњРµС‚РѕРґС‹ СЃР¶Р°С‚РёСЏ РґР°РЅРЅС‹С…: https://habrahabr.ru/post/251295/
+РџРѕР»РёРіРѕРЅР°Р»СЊРЅР°СЏ РіРµРЅРµСЂР°С†РёСЏ РєР°СЂС‚С‹: http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
+Р·Р°РґР°С‡Рё РЅР° СЃРѕР±РµСЃРµРґРѕРІР°РЅРёРµ РІ СЏРЅРґРµРєСЃРµ: https://habrahabr.ru/company/yandex/blog/206234/
+РєСѓСЂСЃС‹ РЁРђР”: https://yandexdataschool.ru/edu-process/courses
+10 Р»СѓС‡С€РёС… СЃР°Р№С‚РѕРІ РґР»СЏ РёР·СѓС‡РµРЅРёСЏ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ: http://pikabu.ru/story/10_luchshikh_saytov_dlya_izucheniya_programmirovaniya_3144165
+google-drive. РЎР±РѕСЂРєР° РєРЅРёР¶РµРє Рё РјРЅРѕРіРѕРіРѕ РїРѕ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЋ: https://drive.google.com/folderview?id=0B0rzCWJBZlaWflRjZXFMeW5aWkNxY0NSNHN1X2x0ODlrSVpXMUVNaHhiTUNpanBSWnVZZHM&usp=sharing
+РџСЂРѕСЃС‚РµРЅСЊРєРѕ Рѕ РјР°С‚Р»РѕРіРёРєРµ: http://mathhelpplanet.com/static.php?p=matematicheskaya-logika-i-yazyki-programmirovaniya
+Р›РµРєС†РёРё РїРѕ РјР°С‚Р»РѕРіРёРєРµ: http://mathmod.bmstu.ru/Docs/Eduwork/ml/ml.html
+СЃР±РѕСЂРєР° РєСѓР±РёРєР°-СЂСѓР±РёРєР° РіРµРЅ. Р°Р»РіРѕСЂРёС‚РјРѕРј: https://habrahabr.ru/post/260965/
+Р’Р·Р»РѕРј РїР°СЂРѕР»СЏ РЅР° Mac СЃ Arduino Рё OpenCV: https://habrahabr.ru/post/250347/
+Р¤РёР»РѕСЃРѕС„РёСЏ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ 1 вЂ” С‚СЂС‘С…РЅР°РїСЂР°РІР»РµРЅРЅРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ: https://habrahabr.ru/post/247251/
+Р¤РёР»РѕСЃРѕС„РёСЏ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ 2 вЂ” РњРёС„ Рё СЏР·С‹Рє: https://habrahabr.ru/post/247363/
+Р¤РёР»РѕСЃРѕС„РёСЏ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ 3 вЂ” Р§РёС‡РёРєРѕРІ Рё РїСЂРѕРіСЂР°РјРјРёР°С‚: https://habrahabr.ru/post/247619/
+Р¤РёР»РѕСЃРѕС„РёСЏ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ 4 вЂ” РўРµС…РЅРѕР»РѕРіРёСЏ В«РЁР°РїРёС‚РѕВ»: https://habrahabr.ru/post/249839/
+Р¤РёР»РѕСЃРѕС„РёСЏ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ 5 вЂ” РљРѕР»РёР±СЂРё Рё Р РµР°РєС‚РѕСЃ: https://habrahabr.ru/post/251793/
+Р¤РёР»РѕСЃРѕС„РёСЏ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ 6 вЂ” РџСЂРѕРґСѓРєС‚ Рё РџСЂРѕРµРєС‚: https://habrahabr.ru/post/254531/
+РЁРїР°СЂРіР°Р»РєР° РїРѕ С€Р°Р±Р»РѕРЅР°Рј РїСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёСЏ: https://habrahabr.ru/post/210288/
+РЎР»РѕР¶РЅРѕСЃС‚Рё Р°Р»РіРѕСЂРёС‚РјРѕРІ: http://bigocheatsheet.com/
+РћРЅР»Р°Р№РЅ-Р·Р°РґР°С‡Рё РїРѕ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЋ: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
+Р“РѕР»РѕРІРѕР»РѕРјРєРё РЅР° РўРџ: https://tproger.ru/tag/brain-teasers/
+Р’РІРµРґРµРЅРёРµ РІ Scum Рё Canban: https://www.youtube.com/watch?v=vzhWe4FwRrA
 What Every Programmer Should Know About Memory: https://www.akkadia.org/drepper/cpumemory.pdf
 What Every Computer Scientist Should Know About Floating-Point Arithmetic: http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
 Unicode and Character Sets: http://www.joelonsoftware.com/articles/Unicode.html
 What Every Programmer Should Know About SEO: http://katemats.com/what-every-programmer-should-know-about-seo/
 What every programmer needs to know about game networking: http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/
-Пиксель - это не маленький квадратик: http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
-Скроллинг движениями рукой при помощи эффекта Допплера: http://danielrapp.github.io/doppler/
-Логическая задача на взвешивание: https://tproger.ru/problems/logic-problem-for-weights/
-Логическая задача на расставление костей домино на шахматной доске: https://tproger.ru/problems/problem-for-chessboard-and-domino/
-CamelCase или_подчеркивания_?: https://tproger.ru/translations/camelcase-vs-underscores-scientific-showdown/
-Основы работы компиляторов, парсинг: https://mortoray.com/2015/02/17/what-a-compiler-does-parsing/
-Как работает алгоритм Хаффмана в gzip: http://jvns.ca/blog/2015/02/22/how-gzip-uses-huffman-coding/
-Реализация арифметических операций при помощи сложения: https://tproger.ru/problems/methods-implements-divide-multiply-subtract-operations-using-addition/
-Зачем нужны конструкторы?: http://mat-mcloughlin.net/2015/02/22/have-we-forgotten-what-constructors-are-for/
-Создание собственного 3D - движка: https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0
+РџРёРєСЃРµР»СЊ - СЌС‚Рѕ РЅРµ РјР°Р»РµРЅСЊРєРёР№ РєРІР°РґСЂР°С‚РёРє: http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf
+РЎРєСЂРѕР»Р»РёРЅРі РґРІРёР¶РµРЅРёСЏРјРё СЂСѓРєРѕР№ РїСЂРё РїРѕРјРѕС‰Рё СЌС„С„РµРєС‚Р° Р”РѕРїРїР»РµСЂР°: http://danielrapp.github.io/doppler/
+Р›РѕРіРёС‡РµСЃРєР°СЏ Р·Р°РґР°С‡Р° РЅР° РІР·РІРµС€РёРІР°РЅРёРµ: https://tproger.ru/problems/logic-problem-for-weights/
+Р›РѕРіРёС‡РµСЃРєР°СЏ Р·Р°РґР°С‡Р° РЅР° СЂР°СЃСЃС‚Р°РІР»РµРЅРёРµ РєРѕСЃС‚РµР№ РґРѕРјРёРЅРѕ РЅР° С€Р°С…РјР°С‚РЅРѕР№ РґРѕСЃРєРµ: https://tproger.ru/problems/problem-for-chessboard-and-domino/
+CamelCase РёР»Рё_РїРѕРґС‡РµСЂРєРёРІР°РЅРёСЏ_?: https://tproger.ru/translations/camelcase-vs-underscores-scientific-showdown/
+РћСЃРЅРѕРІС‹ СЂР°Р±РѕС‚С‹ РєРѕРјРїРёР»СЏС‚РѕСЂРѕРІ, РїР°СЂСЃРёРЅРі: https://mortoray.com/2015/02/17/what-a-compiler-does-parsing/
+РљР°Рє СЂР°Р±РѕС‚Р°РµС‚ Р°Р»РіРѕСЂРёС‚Рј РҐР°С„С„РјР°РЅР° РІ gzip: http://jvns.ca/blog/2015/02/22/how-gzip-uses-huffman-coding/
+Р РµР°Р»РёР·Р°С†РёСЏ Р°СЂРёС„РјРµС‚РёС‡РµСЃРєРёС… РѕРїРµСЂР°С†РёР№ РїСЂРё РїРѕРјРѕС‰Рё СЃР»РѕР¶РµРЅРёСЏ: https://tproger.ru/problems/methods-implements-divide-multiply-subtract-operations-using-addition/
+Р—Р°С‡РµРј РЅСѓР¶РЅС‹ РєРѕРЅСЃС‚СЂСѓРєС‚РѕСЂС‹?: http://mat-mcloughlin.net/2015/02/22/have-we-forgotten-what-constructors-are-for/
+РЎРѕР·РґР°РЅРёРµ СЃРѕР±СЃС‚РІРµРЅРЅРѕРіРѕ 3D - РґРІРёР¶РєР°: https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0
 
 web
-1) Видео-уроки по Bootstrap 3. Начало. https://www.youtube.com/watch?v=AYkEfr-5b1o
-Выдвигающееся меню на чистом css: https://www.youtube.com/watch?v=d4P8s-mkMvs
-хорошие примеры css: http://www.prostoweb.com.ua/sozdanie_sayta/stati/18_potryasayuschih_primerov_css
-Вертикальная централизация на css: https://www.youtube.com/watch?v=T5RIh4StIvs
-курс по node.js http://vk.com/wall-30666517_1163266
-внутреннее скругление border-radius inset: https://habrahabr.ru/post/259603/
-основы asp.net: http://professorweb.ru/my/ASP_NET/base/level1/base_aspnet_index.php
-видеокурс по asp.net mvc 4: http://vk.com/wall-30666517_1177807
-uilang - ui-направленная библиотечка для упрощения работы с css: http://uilang.com/
-Введение в разработку слайд-шоу на JavaScript: https://habrahabr.ru/post/251783/
-Сладер на css: https://habrahabr.ru/post/252075/
-Магия одного Div (не прод, а фан): https://habrahabr.ru/company/paysto/blog/251933/
-Руководство по современному Веб-фронтенду: https://tproger.ru/translations/web-frontend-guidelines/
-Проектирование Web API в 7 шагов: https://habrahabr.ru/company/geekfamily/blog/256495/
-Видео-уроки по работе с AJAX. Начало: https://www.youtube.com/watch?v=tp3Gw-oWs2k&feature=youtu.be
-Библиотеки для PHP: https://habrahabr.ru/post/252851/
+1) Р’РёРґРµРѕ-СѓСЂРѕРєРё РїРѕ Bootstrap 3. РќР°С‡Р°Р»Рѕ. https://www.youtube.com/watch?v=AYkEfr-5b1o
+Р’С‹РґРІРёРіР°СЋС‰РµРµСЃСЏ РјРµРЅСЋ РЅР° С‡РёСЃС‚РѕРј css: https://www.youtube.com/watch?v=d4P8s-mkMvs
+С…РѕСЂРѕС€РёРµ РїСЂРёРјРµСЂС‹ css: http://www.prostoweb.com.ua/sozdanie_sayta/stati/18_potryasayuschih_primerov_css
+Р’РµСЂС‚РёРєР°Р»СЊРЅР°СЏ С†РµРЅС‚СЂР°Р»РёР·Р°С†РёСЏ РЅР° css: https://www.youtube.com/watch?v=T5RIh4StIvs
+РєСѓСЂСЃ РїРѕ node.js http://vk.com/wall-30666517_1163266
+РІРЅСѓС‚СЂРµРЅРЅРµРµ СЃРєСЂСѓРіР»РµРЅРёРµ border-radius inset: https://habrahabr.ru/post/259603/
+РѕСЃРЅРѕРІС‹ asp.net: http://professorweb.ru/my/ASP_NET/base/level1/base_aspnet_index.php
+РІРёРґРµРѕРєСѓСЂСЃ РїРѕ asp.net mvc 4: http://vk.com/wall-30666517_1177807
+uilang - ui-РЅР°РїСЂР°РІР»РµРЅРЅР°СЏ Р±РёР±Р»РёРѕС‚РµС‡РєР° РґР»СЏ СѓРїСЂРѕС‰РµРЅРёСЏ СЂР°Р±РѕС‚С‹ СЃ css: http://uilang.com/
+Р’РІРµРґРµРЅРёРµ РІ СЂР°Р·СЂР°Р±РѕС‚РєСѓ СЃР»Р°Р№Рґ-С€РѕСѓ РЅР° JavaScript: https://habrahabr.ru/post/251783/
+РЎР»Р°РґРµСЂ РЅР° css: https://habrahabr.ru/post/252075/
+РњР°РіРёСЏ РѕРґРЅРѕРіРѕ Div (РЅРµ РїСЂРѕРґ, Р° С„Р°РЅ): https://habrahabr.ru/company/paysto/blog/251933/
+Р СѓРєРѕРІРѕРґСЃС‚РІРѕ РїРѕ СЃРѕРІСЂРµРјРµРЅРЅРѕРјСѓ Р’РµР±-С„СЂРѕРЅС‚РµРЅРґСѓ: https://tproger.ru/translations/web-frontend-guidelines/
+РџСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёРµ Web API РІ 7 С€Р°РіРѕРІ: https://habrahabr.ru/company/geekfamily/blog/256495/
+Р’РёРґРµРѕ-СѓСЂРѕРєРё РїРѕ СЂР°Р±РѕС‚Рµ СЃ AJAX. РќР°С‡Р°Р»Рѕ: https://www.youtube.com/watch?v=tp3Gw-oWs2k&feature=youtu.be
+Р‘РёР±Р»РёРѕС‚РµРєРё РґР»СЏ PHP: https://habrahabr.ru/post/252851/
 
 openGl
-openGl разработка игр (видео уроки на youtube). Стартовый урок (OpenGL 3D Game Tutorial 1: The Display): https://www.youtube.com/watch?v=VS8wlS9hF8E&index=1&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
-openGl туториалы: http://mbsoftworks.sk/index.php?page=tutorials&series=1
-Записки программиста. Изучение OpenGL (одна из статей): http://eax.me/opengl-vbo-vao-shaders/
-My Little OpenGL. Уроки по OpenGL: http://day9saidme.blogspot.ru/
+openGl СЂР°Р·СЂР°Р±РѕС‚РєР° РёРіСЂ (РІРёРґРµРѕ СѓСЂРѕРєРё РЅР° youtube). РЎС‚Р°СЂС‚РѕРІС‹Р№ СѓСЂРѕРє (OpenGL 3D Game Tutorial 1: The Display): https://www.youtube.com/watch?v=VS8wlS9hF8E&index=1&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
+openGl С‚СѓС‚РѕСЂРёР°Р»С‹: http://mbsoftworks.sk/index.php?page=tutorials&series=1
+Р—Р°РїРёСЃРєРё РїСЂРѕРіСЂР°РјРјРёСЃС‚Р°. РР·СѓС‡РµРЅРёРµ OpenGL (РѕРґРЅР° РёР· СЃС‚Р°С‚РµР№): http://eax.me/opengl-vbo-vao-shaders/
+My Little OpenGL. РЈСЂРѕРєРё РїРѕ OpenGL: http://day9saidme.blogspot.ru/
 
-raspberry Pi и Arduino
-Raspberry Pi для начинающих: http://edurobots.ru/raspberry-pi-dlya-nachinayushhix/
+raspberry Pi Рё Arduino
+Raspberry Pi РґР»СЏ РЅР°С‡РёРЅР°СЋС‰РёС…: http://edurobots.ru/raspberry-pi-dlya-nachinayushhix/
 Arduino+Modbus+MasterScada: https://habrahabr.ru/post/278269/
-Начало работы с Arduino: https://www.youtube.com/watch?v=ZbAqbnkv8WM
-Arduino. Pikabu. Начало: http://pikabu.ru/story/_3550918
-Arduino. Pikabu. Софт: http://pikabu.ru/story/_3553199
-Arduino. Pikabu. Макетные платы: http://pikabu.ru/story/_3553591
-Робот на RaspberryPi, Arduino и RaspiCam + OpenCV: https://geektimes.ru/post/255090/
+РќР°С‡Р°Р»Рѕ СЂР°Р±РѕС‚С‹ СЃ Arduino: https://www.youtube.com/watch?v=ZbAqbnkv8WM
+Arduino. Pikabu. РќР°С‡Р°Р»Рѕ: http://pikabu.ru/story/_3550918
+Arduino. Pikabu. РЎРѕС„С‚: http://pikabu.ru/story/_3553199
+Arduino. Pikabu. РњР°РєРµС‚РЅС‹Рµ РїР»Р°С‚С‹: http://pikabu.ru/story/_3553591
+Р РѕР±РѕС‚ РЅР° RaspberryPi, Arduino Рё RaspiCam + OpenCV: https://geektimes.ru/post/255090/
 
 java
-1) Горячие клавиши в IntelliJIDEA: https://github.com/steelhaus/interesting_urls/tree/master/src/intellijIDEA_shortcuts
-Шпаргалка java-программиста (в самом блоге много чего интересного): https://habrahabr.ru/company/luxoft/blog/280784/
-Java Fx - видео-туториалы. Стартовый урок (JavaFX Tutorial #1 - First FX Application With Eclipse): https://www.youtube.com/watch?v=EEcpMTpaWhs
-Java Fx - видео-туториалы. Ссылка на уроки на гитхабе: https://github.com/KriechelD/YouTubeChannel
-Многопоточность в java: https://habrahabr.ru/post/164487/
-java веб-фреймворки: https://xyclade.github.io/MachineLearning/
-Путь к Java Junior Developer: https://habrahabr.ru/post/203688/
-учебник по Java FX - http://code.makery.ch/library/javafx-8-tutorial/ru/
-создание exe-файла для java-программы: http://www.devbug.info/2011/04/exe-java.html
-Создание установщика для java-программы: http://www.pvsm.ru/java/33402/print/
-Распространенные ошибки java-новичков: https://habrahabr.ru/company/mailru/blog/251365/
-Простенькое клиентское приложение на javaFx: http://www.oracle.com/technetwork/ru/topics/java/default-424988-ru.html
-Пишем простое приложение на Spring MVC: http://fuud-java.blogspot.ru/2011/02/spring-mvc-30-web.html
-Написание фрактального кустика: https://habrahabr.ru/post/268405/
+1) Р“РѕСЂСЏС‡РёРµ РєР»Р°РІРёС€Рё РІ IntelliJIDEA: https://github.com/steelhaus/interesting_urls/tree/master/src/intellijIDEA_shortcuts
+РЁРїР°СЂРіР°Р»РєР° java-РїСЂРѕРіСЂР°РјРјРёСЃС‚Р° (РІ СЃР°РјРѕРј Р±Р»РѕРіРµ РјРЅРѕРіРѕ С‡РµРіРѕ РёРЅС‚РµСЂРµСЃРЅРѕРіРѕ): https://habrahabr.ru/company/luxoft/blog/280784/
+Java Fx - РІРёРґРµРѕ-С‚СѓС‚РѕСЂРёР°Р»С‹. РЎС‚Р°СЂС‚РѕРІС‹Р№ СѓСЂРѕРє (JavaFX Tutorial #1 - First FX Application With Eclipse): https://www.youtube.com/watch?v=EEcpMTpaWhs
+Java Fx - РІРёРґРµРѕ-С‚СѓС‚РѕСЂРёР°Р»С‹. РЎСЃС‹Р»РєР° РЅР° СѓСЂРѕРєРё РЅР° РіРёС‚С…Р°Р±Рµ: https://github.com/KriechelD/YouTubeChannel
+РњРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕСЃС‚СЊ РІ java: https://habrahabr.ru/post/164487/
+java РІРµР±-С„СЂРµР№РјРІРѕСЂРєРё: https://xyclade.github.io/MachineLearning/
+РџСѓС‚СЊ Рє Java Junior Developer: https://habrahabr.ru/post/203688/
+СѓС‡РµР±РЅРёРє РїРѕ Java FX - http://code.makery.ch/library/javafx-8-tutorial/ru/
+СЃРѕР·РґР°РЅРёРµ exe-С„Р°Р№Р»Р° РґР»СЏ java-РїСЂРѕРіСЂР°РјРјС‹: http://www.devbug.info/2011/04/exe-java.html
+РЎРѕР·РґР°РЅРёРµ СѓСЃС‚Р°РЅРѕРІС‰РёРєР° РґР»СЏ java-РїСЂРѕРіСЂР°РјРјС‹: http://www.pvsm.ru/java/33402/print/
+Р Р°СЃРїСЂРѕСЃС‚СЂР°РЅРµРЅРЅС‹Рµ РѕС€РёР±РєРё java-РЅРѕРІРёС‡РєРѕРІ: https://habrahabr.ru/company/mailru/blog/251365/
+РџСЂРѕСЃС‚РµРЅСЊРєРѕРµ РєР»РёРµРЅС‚СЃРєРѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ РЅР° javaFx: http://www.oracle.com/technetwork/ru/topics/java/default-424988-ru.html
+РџРёС€РµРј РїСЂРѕСЃС‚РѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ РЅР° Spring MVC: http://fuud-java.blogspot.ru/2011/02/spring-mvc-30-web.html
+РќР°РїРёСЃР°РЅРёРµ С„СЂР°РєС‚Р°Р»СЊРЅРѕРіРѕ РєСѓСЃС‚РёРєР°: https://habrahabr.ru/post/268405/
 Solving FizzBuzz in Java 8: http://javarevisited.blogspot.ru/2015/04/fizzbuzz-solution-in-java-8.html
-Реализуем RESTful Web Service на java: https://habrahabr.ru/post/150034/
-Intellij IDEA. шорткаты: https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf
-Веб на чистой Java. Изучаем Vaadin — крутой фреймворк для создания веб-приложений: https://habrahabr.ru/company/xakep/blog/244477/
+Р РµР°Р»РёР·СѓРµРј RESTful Web Service РЅР° java: https://habrahabr.ru/post/150034/
+Intellij IDEA. С€РѕСЂС‚РєР°С‚С‹: https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf
+Р’РµР± РЅР° С‡РёСЃС‚РѕР№ Java. РР·СѓС‡Р°РµРј Vaadin вЂ” РєСЂСѓС‚РѕР№ С„СЂРµР№РјРІРѕСЂРє РґР»СЏ СЃРѕР·РґР°РЅРёСЏ РІРµР±-РїСЂРёР»РѕР¶РµРЅРёР№: https://habrahabr.ru/company/xakep/blog/244477/
 10 Things Every Java Programmer Should Know about String: http://javarevisited.blogspot.ru/2013/07/java-string-tutorial-and-examples-beginners-programming.html
-Уход от циклов в java 8: Swerving Away from Loops in Java 8
-Повторяющиеся аннотации в java 8: https://blog.idrsolutions.com/2015/03/java-8-repeating-annotation-explained-in-5-minutes/
-Грамотный дизайн приложений на java и C#: https://insidethecpu.com/2015/01/23/object-oriented-test-driven-design-in-c-and-java/
-Скрытые исключения в java: http://codejargon.blogspot.ru/2015/02/sneaky-exceptions.html?m=1
-Как Java оптимизирует циклы, оставляя возможность для отладки: http://vk.com/wall-30666517_1097883
-Шпаргалка java-программиста. Решение типовых задач. Luxoft
+РЈС…РѕРґ РѕС‚ С†РёРєР»РѕРІ РІ java 8: Swerving Away from Loops in Java 8
+РџРѕРІС‚РѕСЂСЏСЋС‰РёРµСЃСЏ Р°РЅРЅРѕС‚Р°С†РёРё РІ java 8: https://blog.idrsolutions.com/2015/03/java-8-repeating-annotation-explained-in-5-minutes/
+Р“СЂР°РјРѕС‚РЅС‹Р№ РґРёР·Р°Р№РЅ РїСЂРёР»РѕР¶РµРЅРёР№ РЅР° java Рё C#: https://insidethecpu.com/2015/01/23/object-oriented-test-driven-design-in-c-and-java/
+РЎРєСЂС‹С‚С‹Рµ РёСЃРєР»СЋС‡РµРЅРёСЏ РІ java: http://codejargon.blogspot.ru/2015/02/sneaky-exceptions.html?m=1
+РљР°Рє Java РѕРїС‚РёРјРёР·РёСЂСѓРµС‚ С†РёРєР»С‹, РѕСЃС‚Р°РІР»СЏСЏ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ РґР»СЏ РѕС‚Р»Р°РґРєРё: http://vk.com/wall-30666517_1097883
+РЁРїР°СЂРіР°Р»РєР° java-РїСЂРѕРіСЂР°РјРјРёСЃС‚Р°. Р РµС€РµРЅРёРµ С‚РёРїРѕРІС‹С… Р·Р°РґР°С‡. Luxoft
 https://habrahabr.ru/company/luxoft/blog/278233/
 
 Vim
-Шпаргалка по работе в vim: http://eax.me/vim-commands/
-Snippets и шаблоны файлов: https://habrahabr.ru/post/260591/
+РЁРїР°СЂРіР°Р»РєР° РїРѕ СЂР°Р±РѕС‚Рµ РІ vim: http://eax.me/vim-commands/
+Snippets Рё С€Р°Р±Р»РѕРЅС‹ С„Р°Р№Р»РѕРІ: https://habrahabr.ru/post/260591/
 Learn Vim Progressively: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
-Справочник по горячим клавишам: https://habrahabr.ru/post/193176/#first_unread
+РЎРїСЂР°РІРѕС‡РЅРёРє РїРѕ РіРѕСЂСЏС‡РёРј РєР»Р°РІРёС€Р°Рј: https://habrahabr.ru/post/193176/#first_unread
 
 Unity 3D
-Интересные проекты. Стартовый проект (Создание механического шагающего муравья в Unity (Creating mechanical walking ant in Unity)): https://www.youtube.com/watch?v=sJjfm0-T9Bc&list=PLomfhRzw8PUFd4EaqKa-QYWO7hxCmLC84
-Разработка 2D-аркады на Unity: http://pikabu.ru/story/_3883794
-Моделирование 2D водной поверхности в Unity: https://tproger.ru/translations/creating-dynamic-2d-water-effects-in-unity/
-Гоночная игра на Unity 3D: https://habrahabr.ru/post/247667/
-Арканоид на Unity: http://vk.com/wall-30666517_1127240
-Серия уроков на Unity3D по созданию игры "Приключение печеньки": http://vk.com/wall-83484759_1738
+РРЅС‚РµСЂРµСЃРЅС‹Рµ РїСЂРѕРµРєС‚С‹. РЎС‚Р°СЂС‚РѕРІС‹Р№ РїСЂРѕРµРєС‚ (РЎРѕР·РґР°РЅРёРµ РјРµС…Р°РЅРёС‡РµСЃРєРѕРіРѕ С€Р°РіР°СЋС‰РµРіРѕ РјСѓСЂР°РІСЊСЏ РІ Unity (Creating mechanical walking ant in Unity)): https://www.youtube.com/watch?v=sJjfm0-T9Bc&list=PLomfhRzw8PUFd4EaqKa-QYWO7hxCmLC84
+Р Р°Р·СЂР°Р±РѕС‚РєР° 2D-Р°СЂРєР°РґС‹ РЅР° Unity: http://pikabu.ru/story/_3883794
+РњРѕРґРµР»РёСЂРѕРІР°РЅРёРµ 2D РІРѕРґРЅРѕР№ РїРѕРІРµСЂС…РЅРѕСЃС‚Рё РІ Unity: https://tproger.ru/translations/creating-dynamic-2d-water-effects-in-unity/
+Р“РѕРЅРѕС‡РЅР°СЏ РёРіСЂР° РЅР° Unity 3D: https://habrahabr.ru/post/247667/
+РђСЂРєР°РЅРѕРёРґ РЅР° Unity: http://vk.com/wall-30666517_1127240
+РЎРµСЂРёСЏ СѓСЂРѕРєРѕРІ РЅР° Unity3D РїРѕ СЃРѕР·РґР°РЅРёСЋ РёРіСЂС‹ "РџСЂРёРєР»СЋС‡РµРЅРёРµ РїРµС‡РµРЅСЊРєРё": http://vk.com/wall-83484759_1738
 
 C++
-Ping-pong На C++: https://www.youtube.com/watch?v=IebKxsucu-s
-Начало программирования на C++. Уроки: https://www.youtube.com/watch?v=tAYt6bDW-YI
-Простые уроки по C++. Видео: https://www.youtube.com/watch?v=8rYPm7tUaO0&list=PL30625C8F5ADD5BB4
+Ping-pong РќР° C++: https://www.youtube.com/watch?v=IebKxsucu-s
+РќР°С‡Р°Р»Рѕ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ РЅР° C++. РЈСЂРѕРєРё: https://www.youtube.com/watch?v=tAYt6bDW-YI
+РџСЂРѕСЃС‚С‹Рµ СѓСЂРѕРєРё РїРѕ C++. Р’РёРґРµРѕ: https://www.youtube.com/watch?v=8rYPm7tUaO0&list=PL30625C8F5ADD5BB4
 Cpp. Pure virtual function call: https://tproger.ru/problems/pure-virtual-function-call/
-ASCII Roguelike игра (2 часа): https://www.youtube.com/watch?v=tVWckBaB5xo
-Книги по C++: https://tproger.ru/translations/what-books-does-bjarne-stroustrup-suggest-to-master-cpp/
-Указатели в C++. Введение: https://habrahabr.ru/post/256443/
-Безопасность потоков в С++: https://tproger.ru/problems/safe-threads-in-cpp/
+ASCII Roguelike РёРіСЂР° (2 С‡Р°СЃР°): https://www.youtube.com/watch?v=tVWckBaB5xo
+РљРЅРёРіРё РїРѕ C++: https://tproger.ru/translations/what-books-does-bjarne-stroustrup-suggest-to-master-cpp/
+РЈРєР°Р·Р°С‚РµР»Рё РІ C++. Р’РІРµРґРµРЅРёРµ: https://habrahabr.ru/post/256443/
+Р‘РµР·РѕРїР°СЃРЅРѕСЃС‚СЊ РїРѕС‚РѕРєРѕРІ РІ РЎ++: https://tproger.ru/problems/safe-threads-in-cpp/
 
 Unreal Engine 4
-Чья-то история по разработке 3D игр на Unreal Engine 4: http://pikabu.ru/story/_4037476
-Настройка персонажа: https://www.youtube.com/watch?v=UmPhU62_jos
-AI реализация: https://www.youtube.com/watch?v=VAAHKNoIg0w
-top-down game туториал: https://www.youtube.com/watch?v=VtMwSduToZg
-гайд по оружию: https://www.youtube.com/watch?v=K8lX4NF6YgU
-гарпун с веревкой: https://www.youtube.com/watch?v=b8Y2zVFZCg0
-сплайн-меши: https://www.youtube.com/watch?v=7YUxM0NDWRY
-основы AI (стрим): https://www.youtube.com/watch?v=evYE7tfWXUY
-много видеоуроков: https://www.youtube.com/watch?v=QIvcTwlosMQ&list=PLwqnA65RFUf-8xIFQYV8Zjziv4gUqjLZ_
-основы ландшафта: https://www.youtube.com/watch?v=2Lx-drupqls
-туториал по созданию гранатомета: http://shootertutorial.com/2015/06/20/create-an-grenade-launcher/
-много туториалов по ue4: http://shootertutorial.com/tutorials/
-траектория снаряда: https://www.youtube.com/watch?v=Fkp50urxShg
-поворот персонажа к цели: https://www.youtube.com/watch?v=JQWIckh4XT0
-sensing AI (Зрение): https://www.youtube.com/watch?v=59INcP9Vsmo
-Создание стрел: https://www.youtube.com/watch?v=4XtLA3bciaE
-Создание танка: https://www.youtube.com/watch?v=Oh7pDL8RFaI
-Классная реализация шутера: https://www.youtube.com/watch?v=KVkSZR8KE4w
-Видео с суперспособностями персонажа: https://www.youtube.com/watch?v=-kn8xwa50O8
-Написание 2D-платформера: https://habrahabr.ru/post/237409/
-Дерево решений на C++: https://forums.unrealengine.com/showthread.php?130-Behavior-Tree-Tutorial
-Туториал по созданию сайдскроллера (камера закреплена, аркадное движение): https://forums.unrealengine.com/showthread.php?24522-Tutorial-Blueprint-Spline-locked-sidescroller-%28e-g-Klonoa-Pandemonium-style-game
-Туториал по оружию ближнего боя: https://www.youtube.com/watch?v=Bw7WMhMrmpc
+Р§СЊСЏ-С‚Рѕ РёСЃС‚РѕСЂРёСЏ РїРѕ СЂР°Р·СЂР°Р±РѕС‚РєРµ 3D РёРіСЂ РЅР° Unreal Engine 4: http://pikabu.ru/story/_4037476
+РќР°СЃС‚СЂРѕР№РєР° РїРµСЂСЃРѕРЅР°Р¶Р°: https://www.youtube.com/watch?v=UmPhU62_jos
+AI СЂРµР°Р»РёР·Р°С†РёСЏ: https://www.youtube.com/watch?v=VAAHKNoIg0w
+top-down game С‚СѓС‚РѕСЂРёР°Р»: https://www.youtube.com/watch?v=VtMwSduToZg
+РіР°Р№Рґ РїРѕ РѕСЂСѓР¶РёСЋ: https://www.youtube.com/watch?v=K8lX4NF6YgU
+РіР°СЂРїСѓРЅ СЃ РІРµСЂРµРІРєРѕР№: https://www.youtube.com/watch?v=b8Y2zVFZCg0
+СЃРїР»Р°Р№РЅ-РјРµС€Рё: https://www.youtube.com/watch?v=7YUxM0NDWRY
+РѕСЃРЅРѕРІС‹ AI (СЃС‚СЂРёРј): https://www.youtube.com/watch?v=evYE7tfWXUY
+РјРЅРѕРіРѕ РІРёРґРµРѕСѓСЂРѕРєРѕРІ: https://www.youtube.com/watch?v=QIvcTwlosMQ&list=PLwqnA65RFUf-8xIFQYV8Zjziv4gUqjLZ_
+РѕСЃРЅРѕРІС‹ Р»Р°РЅРґС€Р°С„С‚Р°: https://www.youtube.com/watch?v=2Lx-drupqls
+С‚СѓС‚РѕСЂРёР°Р» РїРѕ СЃРѕР·РґР°РЅРёСЋ РіСЂР°РЅР°С‚РѕРјРµС‚Р°: http://shootertutorial.com/2015/06/20/create-an-grenade-launcher/
+РјРЅРѕРіРѕ С‚СѓС‚РѕСЂРёР°Р»РѕРІ РїРѕ ue4: http://shootertutorial.com/tutorials/
+С‚СЂР°РµРєС‚РѕСЂРёСЏ СЃРЅР°СЂСЏРґР°: https://www.youtube.com/watch?v=Fkp50urxShg
+РїРѕРІРѕСЂРѕС‚ РїРµСЂСЃРѕРЅР°Р¶Р° Рє С†РµР»Рё: https://www.youtube.com/watch?v=JQWIckh4XT0
+sensing AI (Р—СЂРµРЅРёРµ): https://www.youtube.com/watch?v=59INcP9Vsmo
+РЎРѕР·РґР°РЅРёРµ СЃС‚СЂРµР»: https://www.youtube.com/watch?v=4XtLA3bciaE
+РЎРѕР·РґР°РЅРёРµ С‚Р°РЅРєР°: https://www.youtube.com/watch?v=Oh7pDL8RFaI
+РљР»Р°СЃСЃРЅР°СЏ СЂРµР°Р»РёР·Р°С†РёСЏ С€СѓС‚РµСЂР°: https://www.youtube.com/watch?v=KVkSZR8KE4w
+Р’РёРґРµРѕ СЃ СЃСѓРїРµСЂСЃРїРѕСЃРѕР±РЅРѕСЃС‚СЏРјРё РїРµСЂСЃРѕРЅР°Р¶Р°: https://www.youtube.com/watch?v=-kn8xwa50O8
+РќР°РїРёСЃР°РЅРёРµ 2D-РїР»Р°С‚С„РѕСЂРјРµСЂР°: https://habrahabr.ru/post/237409/
+Р”РµСЂРµРІРѕ СЂРµС€РµРЅРёР№ РЅР° C++: https://forums.unrealengine.com/showthread.php?130-Behavior-Tree-Tutorial
+РўСѓС‚РѕСЂРёР°Р» РїРѕ СЃРѕР·РґР°РЅРёСЋ СЃР°Р№РґСЃРєСЂРѕР»Р»РµСЂР° (РєР°РјРµСЂР° Р·Р°РєСЂРµРїР»РµРЅР°, Р°СЂРєР°РґРЅРѕРµ РґРІРёР¶РµРЅРёРµ): https://forums.unrealengine.com/showthread.php?24522-Tutorial-Blueprint-Spline-locked-sidescroller-%28e-g-Klonoa-Pandemonium-style-game
+РўСѓС‚РѕСЂРёР°Р» РїРѕ РѕСЂСѓР¶РёСЋ Р±Р»РёР¶РЅРµРіРѕ Р±РѕСЏ: https://www.youtube.com/watch?v=Bw7WMhMrmpc
 
-книги:
-фантастика: http://pikabu.ru/story/_3973698
-антиутопия: http://www.adme.ru/tvorchestvo-pisateli/15-knig-antiutopij-kotorye-izmenyat-vashe-mnenie-ob-idealnom-mire-723410/
-фентези 1: http://pikabu.ru/story/_3379955
-фентези 2: http://pikabu.ru/story/_3382351
-квантовая механика: https://habrahabr.ru/company/piter/blog/247787/
-Книги для прокачки мозгов: https://habrahabr.ru/company/piter/blog/250121/
-Гарри Поттер и методы рационального мышления: http://hpmor.ru/
-Киберпанк: http://pikabu.ru/story/knigi_zhanra_quotkiberpankquot_3275060
-Карьера программиста. Как устроиться на работу в Google, Microsoft или другую ведущую IT-компанию: http://www.piter.com/product/kariera-programmista-kak-ustroitsya-na-rabotu-v-google-microsoft-ili-druguyu-veduschuyu-it-kompaniyu-2
+РєРЅРёРіРё:
+С„Р°РЅС‚Р°СЃС‚РёРєР°: http://pikabu.ru/story/_3973698
+Р°РЅС‚РёСѓС‚РѕРїРёСЏ: http://www.adme.ru/tvorchestvo-pisateli/15-knig-antiutopij-kotorye-izmenyat-vashe-mnenie-ob-idealnom-mire-723410/
+С„РµРЅС‚РµР·Рё 1: http://pikabu.ru/story/_3379955
+С„РµРЅС‚РµР·Рё 2: http://pikabu.ru/story/_3382351
+РєРІР°РЅС‚РѕРІР°СЏ РјРµС…Р°РЅРёРєР°: https://habrahabr.ru/company/piter/blog/247787/
+РљРЅРёРіРё РґР»СЏ РїСЂРѕРєР°С‡РєРё РјРѕР·РіРѕРІ: https://habrahabr.ru/company/piter/blog/250121/
+Р“Р°СЂСЂРё РџРѕС‚С‚РµСЂ Рё РјРµС‚РѕРґС‹ СЂР°С†РёРѕРЅР°Р»СЊРЅРѕРіРѕ РјС‹С€Р»РµРЅРёСЏ: http://hpmor.ru/
+РљРёР±РµСЂРїР°РЅРє: http://pikabu.ru/story/knigi_zhanra_quotkiberpankquot_3275060
+РљР°СЂСЊРµСЂР° РїСЂРѕРіСЂР°РјРјРёСЃС‚Р°. РљР°Рє СѓСЃС‚СЂРѕРёС‚СЊСЃСЏ РЅР° СЂР°Р±РѕС‚Сѓ РІ Google, Microsoft РёР»Рё РґСЂСѓРіСѓСЋ РІРµРґСѓС‰СѓСЋ IT-РєРѕРјРїР°РЅРёСЋ: http://www.piter.com/product/kariera-programmista-kak-ustroitsya-na-rabotu-v-google-microsoft-ili-druguyu-veduschuyu-it-kompaniyu-2
 
 git
-Шпаргалка по работе с git: http://eax.me/git-commands/
-Ежедневная работа с git: https://habrahabr.ru/post/174467/
-Git быстрый старт. Видеокурс: https://geekbrains.ru/courses/66?utm_source=vk.com&utm_medium=social&utm_term=git_quick_start&utm_campaign=tp_ad_22.10.15
-Видеоуроки git: https://www.youtube.com/watch?v=PEKN8NtBDQ0
-Интерактивный курс изучения бранчинга git: http://pcottle.github.io/learnGitBranching/?demo
-tproger. По тегу "гит": https://tproger.ru/tag/git/
-github для новичков: https://www.youtube.com/watch?v=0fKg7e37bQE
-Интересная шпаргалка по Гит: http://ndpsoftware.com/git-cheatsheet.html
-Самые типичные ошибки/вопросы по git и способы их решения: https://tproger.ru/translations/most-common-git-screwupsquestions-and-solutions/
-Статья "Иногда гит подходит для хранения бинарников": http://asynch.ro/blog/2015/03/04/git-is-actually-ok-for-some-binaries/
+РЁРїР°СЂРіР°Р»РєР° РїРѕ СЂР°Р±РѕС‚Рµ СЃ git: http://eax.me/git-commands/
+Р•Р¶РµРґРЅРµРІРЅР°СЏ СЂР°Р±РѕС‚Р° СЃ git: https://habrahabr.ru/post/174467/
+Git Р±С‹СЃС‚СЂС‹Р№ СЃС‚Р°СЂС‚. Р’РёРґРµРѕРєСѓСЂСЃ: https://geekbrains.ru/courses/66?utm_source=vk.com&utm_medium=social&utm_term=git_quick_start&utm_campaign=tp_ad_22.10.15
+Р’РёРґРµРѕСѓСЂРѕРєРё git: https://www.youtube.com/watch?v=PEKN8NtBDQ0
+РРЅС‚РµСЂР°РєС‚РёРІРЅС‹Р№ РєСѓСЂСЃ РёР·СѓС‡РµРЅРёСЏ Р±СЂР°РЅС‡РёРЅРіР° git: http://pcottle.github.io/learnGitBranching/?demo
+tproger. РџРѕ С‚РµРіСѓ "РіРёС‚": https://tproger.ru/tag/git/
+github РґР»СЏ РЅРѕРІРёС‡РєРѕРІ: https://www.youtube.com/watch?v=0fKg7e37bQE
+РРЅС‚РµСЂРµСЃРЅР°СЏ С€РїР°СЂРіР°Р»РєР° РїРѕ Р“РёС‚: http://ndpsoftware.com/git-cheatsheet.html
+РЎР°РјС‹Рµ С‚РёРїРёС‡РЅС‹Рµ РѕС€РёР±РєРё/РІРѕРїСЂРѕСЃС‹ РїРѕ git Рё СЃРїРѕСЃРѕР±С‹ РёС… СЂРµС€РµРЅРёСЏ: https://tproger.ru/translations/most-common-git-screwupsquestions-and-solutions/
+РЎС‚Р°С‚СЊСЏ "РРЅРѕРіРґР° РіРёС‚ РїРѕРґС…РѕРґРёС‚ РґР»СЏ С…СЂР°РЅРµРЅРёСЏ Р±РёРЅР°СЂРЅРёРєРѕРІ": http://asynch.ro/blog/2015/03/04/git-is-actually-ok-for-some-binaries/
 
-Криптография
-Основы криптографии: https://www.youtube.com/watch?v=mlMcNWTwxMw
-Курсы этичного хакинга: начальная подготовка: https://habrahabr.ru/company/pentestit/blog/260361/
-Книга Компьютер глазами Хакера: http://vk.com/wall-63708206_60166
+РљСЂРёРїС‚РѕРіСЂР°С„РёСЏ
+РћСЃРЅРѕРІС‹ РєСЂРёРїС‚РѕРіСЂР°С„РёРё: https://www.youtube.com/watch?v=mlMcNWTwxMw
+РљСѓСЂСЃС‹ СЌС‚РёС‡РЅРѕРіРѕ С…Р°РєРёРЅРіР°: РЅР°С‡Р°Р»СЊРЅР°СЏ РїРѕРґРіРѕС‚РѕРІРєР°: https://habrahabr.ru/company/pentestit/blog/260361/
+РљРЅРёРіР° РљРѕРјРїСЊСЋС‚РµСЂ РіР»Р°Р·Р°РјРё РҐР°РєРµСЂР°: http://vk.com/wall-63708206_60166
 
 gamedev
-Программист учится рисовать: http://pikabu.ru/story/_3956823
-Вопросы к разработчику игр: http://pikabu.ru/story/_3943470
-Вопросы по геймдеву: http://pikabu.ru/story/_3917320
-Хитрости создания игровых уровней: https://habrahabr.ru/post/274483/
-Процедурная генерация Карт мира на Unity, C#: https://habrahabr.ru/post/276551/
-Шаги разработки игр (приложений): https://tproger.ru/translations/making-your-first-game-a-walkthrough-for-game-developers/
-Игра за 10 минут. C++/OpenGL. Сапер: https://www.youtube.com/watch?v=vqJQoangCSw
-Игра за 10 минут. C++/OpenGL. Шашки: https://www.youtube.com/watch?v=18w2kpn5b9g
-Игра за 10 минут. C++/OpenGL. Астероиды: https://www.youtube.com/watch?v=7iAG0qObDbA
-Игра за 10 минут. C++/OpenGL. Змейка: https://www.youtube.com/watch?v=GiZGEFBGgKU
-Игра за 10 минут. C++/OpenGL. Арканоид: https://www.youtube.com/watch?v=4jMSVaQfoEQ
-Игра за 10 минут. C++/OpenGL. Тетрис: https://www.youtube.com/watch?v=q1bHWvpMqtI
-Философия создания сетевых игр: https://www.youtube.com/watch?v=AdfUw0Ouqyc
-C чего изучать игрострой: http://pikabu.ru/story/_3899281
-История создания ландшафта на Unity за 24 часа: https://tproger.ru/articles/unity-terrain-24-hours/
-Как парень делает игру: http://vk.com/wall-83484759_2934
-Еще как парень игру делал: http://vk.com/wall-83484759_2867
-Разработка и адаптация игр под мобильные платформы: https://habrahabr.ru/company/intel/blog/144241/
-Разработка простой игры на Direct3D 9: https://habrahabr.ru/post/251081/
-Пишем бота для MMORPG с ассемблером и дренейками. Часть 0: https://habrahabr.ru/post/251137/
-Тригонометрия для игр: https://www.raywenderlich.com/90520/trigonometry-games-sprite-kit-swift-tutorial-part-1
-Основы боевой системы в играх: https://habrahabr.ru/post/253697/
-История о создании игры: http://vk.com/wall-83484759_2625
-Тригонометрия для игр: Trigonometry for Games – Sprite Kit and Swift Tutorial: Part 1/2
+РџСЂРѕРіСЂР°РјРјРёСЃС‚ СѓС‡РёС‚СЃСЏ СЂРёСЃРѕРІР°С‚СЊ: http://pikabu.ru/story/_3956823
+Р’РѕРїСЂРѕСЃС‹ Рє СЂР°Р·СЂР°Р±РѕС‚С‡РёРєСѓ РёРіСЂ: http://pikabu.ru/story/_3943470
+Р’РѕРїСЂРѕСЃС‹ РїРѕ РіРµР№РјРґРµРІСѓ: http://pikabu.ru/story/_3917320
+РҐРёС‚СЂРѕСЃС‚Рё СЃРѕР·РґР°РЅРёСЏ РёРіСЂРѕРІС‹С… СѓСЂРѕРІРЅРµР№: https://habrahabr.ru/post/274483/
+РџСЂРѕС†РµРґСѓСЂРЅР°СЏ РіРµРЅРµСЂР°С†РёСЏ РљР°СЂС‚ РјРёСЂР° РЅР° Unity, C#: https://habrahabr.ru/post/276551/
+РЁР°РіРё СЂР°Р·СЂР°Р±РѕС‚РєРё РёРіСЂ (РїСЂРёР»РѕР¶РµРЅРёР№): https://tproger.ru/translations/making-your-first-game-a-walkthrough-for-game-developers/
+РРіСЂР° Р·Р° 10 РјРёРЅСѓС‚. C++/OpenGL. РЎР°РїРµСЂ: https://www.youtube.com/watch?v=vqJQoangCSw
+РРіСЂР° Р·Р° 10 РјРёРЅСѓС‚. C++/OpenGL. РЁР°С€РєРё: https://www.youtube.com/watch?v=18w2kpn5b9g
+РРіСЂР° Р·Р° 10 РјРёРЅСѓС‚. C++/OpenGL. РђСЃС‚РµСЂРѕРёРґС‹: https://www.youtube.com/watch?v=7iAG0qObDbA
+РРіСЂР° Р·Р° 10 РјРёРЅСѓС‚. C++/OpenGL. Р—РјРµР№РєР°: https://www.youtube.com/watch?v=GiZGEFBGgKU
+РРіСЂР° Р·Р° 10 РјРёРЅСѓС‚. C++/OpenGL. РђСЂРєР°РЅРѕРёРґ: https://www.youtube.com/watch?v=4jMSVaQfoEQ
+РРіСЂР° Р·Р° 10 РјРёРЅСѓС‚. C++/OpenGL. РўРµС‚СЂРёСЃ: https://www.youtube.com/watch?v=q1bHWvpMqtI
+Р¤РёР»РѕСЃРѕС„РёСЏ СЃРѕР·РґР°РЅРёСЏ СЃРµС‚РµРІС‹С… РёРіСЂ: https://www.youtube.com/watch?v=AdfUw0Ouqyc
+C С‡РµРіРѕ РёР·СѓС‡Р°С‚СЊ РёРіСЂРѕСЃС‚СЂРѕР№: http://pikabu.ru/story/_3899281
+РСЃС‚РѕСЂРёСЏ СЃРѕР·РґР°РЅРёСЏ Р»Р°РЅРґС€Р°С„С‚Р° РЅР° Unity Р·Р° 24 С‡Р°СЃР°: https://tproger.ru/articles/unity-terrain-24-hours/
+РљР°Рє РїР°СЂРµРЅСЊ РґРµР»Р°РµС‚ РёРіСЂСѓ: http://vk.com/wall-83484759_2934
+Р•С‰Рµ РєР°Рє РїР°СЂРµРЅСЊ РёРіСЂСѓ РґРµР»Р°Р»: http://vk.com/wall-83484759_2867
+Р Р°Р·СЂР°Р±РѕС‚РєР° Рё Р°РґР°РїС‚Р°С†РёСЏ РёРіСЂ РїРѕРґ РјРѕР±РёР»СЊРЅС‹Рµ РїР»Р°С‚С„РѕСЂРјС‹: https://habrahabr.ru/company/intel/blog/144241/
+Р Р°Р·СЂР°Р±РѕС‚РєР° РїСЂРѕСЃС‚РѕР№ РёРіСЂС‹ РЅР° Direct3D 9: https://habrahabr.ru/post/251081/
+РџРёС€РµРј Р±РѕС‚Р° РґР»СЏ MMORPG СЃ Р°СЃСЃРµРјР±Р»РµСЂРѕРј Рё РґСЂРµРЅРµР№РєР°РјРё. Р§Р°СЃС‚СЊ 0: https://habrahabr.ru/post/251137/
+РўСЂРёРіРѕРЅРѕРјРµС‚СЂРёСЏ РґР»СЏ РёРіСЂ: https://www.raywenderlich.com/90520/trigonometry-games-sprite-kit-swift-tutorial-part-1
+РћСЃРЅРѕРІС‹ Р±РѕРµРІРѕР№ СЃРёСЃС‚РµРјС‹ РІ РёРіСЂР°С…: https://habrahabr.ru/post/253697/
+РСЃС‚РѕСЂРёСЏ Рѕ СЃРѕР·РґР°РЅРёРё РёРіСЂС‹: http://vk.com/wall-83484759_2625
+РўСЂРёРіРѕРЅРѕРјРµС‚СЂРёСЏ РґР»СЏ РёРіСЂ: Trigonometry for Games вЂ“ Sprite Kit and Swift Tutorial: Part 1/2
 
-Мобильный геймдев
-cocos2D - движок для 2D игр: http://cocos2d.spritebuilder.com/
-Архитектурный дизайн мобильных приложений: часть 1: https://habrahabr.ru/company/redmadrobot/blog/246551/
-Архитектурный дизайн мобильных приложений: часть 2: https://habrahabr.ru/company/redmadrobot/blog/251337/
+РњРѕР±РёР»СЊРЅС‹Р№ РіРµР№РјРґРµРІ
+cocos2D - РґРІРёР¶РѕРє РґР»СЏ 2D РёРіСЂ: http://cocos2d.spritebuilder.com/
+РђСЂС…РёС‚РµРєС‚СѓСЂРЅС‹Р№ РґРёР·Р°Р№РЅ РјРѕР±РёР»СЊРЅС‹С… РїСЂРёР»РѕР¶РµРЅРёР№: С‡Р°СЃС‚СЊ 1: https://habrahabr.ru/company/redmadrobot/blog/246551/
+РђСЂС…РёС‚РµРєС‚СѓСЂРЅС‹Р№ РґРёР·Р°Р№РЅ РјРѕР±РёР»СЊРЅС‹С… РїСЂРёР»РѕР¶РµРЅРёР№: С‡Р°СЃС‚СЊ 2: https://habrahabr.ru/company/redmadrobot/blog/251337/
 iOS game optimisation: http://nukecode.blogspot.ru/2012/10/leran-ios-game-development-hard-way.html
-Как начать разрабатывать под Android: https://tproger.ru/translations/how-to-start-android/
-Хоткеи Android Studio: https://habrahabr.ru/post/253639/
-Бесплатная онлайн школа Android-разработчиков: https://habrahabr.ru/company/e-Legion/blog/254091/
+РљР°Рє РЅР°С‡Р°С‚СЊ СЂР°Р·СЂР°Р±Р°С‚С‹РІР°С‚СЊ РїРѕРґ Android: https://tproger.ru/translations/how-to-start-android/
+РҐРѕС‚РєРµРё Android Studio: https://habrahabr.ru/post/253639/
+Р‘РµСЃРїР»Р°С‚РЅР°СЏ РѕРЅР»Р°Р№РЅ С€РєРѕР»Р° Android-СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ: https://habrahabr.ru/company/e-Legion/blog/254091/
 Android Application Development Tutorial: https://www.youtube.com/watch?v=qTv9gcshf8Q
-push-уведомления в android: https://tproger.ru/translations/adventures-in-android-user-notifications/
+push-СѓРІРµРґРѕРјР»РµРЅРёСЏ РІ android: https://tproger.ru/translations/adventures-in-android-user-notifications/
 
-Дизайн
-Пиксель-арт (часть 1): http://pikabu.ru/story/_3918181
-Пиксель-арт (часть 2): http://pikabu.ru/story/_3920715
-Сайты с бесплатной графикой для игр: http://pikabu.ru/story/_3903473
-Сервисы для дизайнеров и веб-разработчиков: http://pikabu.ru/story/_3899306
+Р”РёР·Р°Р№РЅ
+РџРёРєСЃРµР»СЊ-Р°СЂС‚ (С‡Р°СЃС‚СЊ 1): http://pikabu.ru/story/_3918181
+РџРёРєСЃРµР»СЊ-Р°СЂС‚ (С‡Р°СЃС‚СЊ 2): http://pikabu.ru/story/_3920715
+РЎР°Р№С‚С‹ СЃ Р±РµСЃРїР»Р°С‚РЅРѕР№ РіСЂР°С„РёРєРѕР№ РґР»СЏ РёРіСЂ: http://pikabu.ru/story/_3903473
+РЎРµСЂРІРёСЃС‹ РґР»СЏ РґРёР·Р°Р№РЅРµСЂРѕРІ Рё РІРµР±-СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ: http://pikabu.ru/story/_3899306
 
 Autodesk 3ds Max
-Моделирование. Часть 1: https://vk.com/tproger?w=wall-30666517_1228799
-Моделирование. Часть 2: https://vk.com/tproger?w=wall-30666517_1231466
-Моделирование. Часть 3: https://vk.com/tproger?w=wall-30666517_1232701
-Моделирование. Часть 4: https://vk.com/tproger?w=wall-30666517_1233281
-Autodesk. Создание рапиры. Видео. https://www.youtube.com/watch?v=GOPSupgr3d8
+РњРѕРґРµР»РёСЂРѕРІР°РЅРёРµ. Р§Р°СЃС‚СЊ 1: https://vk.com/tproger?w=wall-30666517_1228799
+РњРѕРґРµР»РёСЂРѕРІР°РЅРёРµ. Р§Р°СЃС‚СЊ 2: https://vk.com/tproger?w=wall-30666517_1231466
+РњРѕРґРµР»РёСЂРѕРІР°РЅРёРµ. Р§Р°СЃС‚СЊ 3: https://vk.com/tproger?w=wall-30666517_1232701
+РњРѕРґРµР»РёСЂРѕРІР°РЅРёРµ. Р§Р°СЃС‚СЊ 4: https://vk.com/tproger?w=wall-30666517_1233281
+Autodesk. РЎРѕР·РґР°РЅРёРµ СЂР°РїРёСЂС‹. Р’РёРґРµРѕ. https://www.youtube.com/watch?v=GOPSupgr3d8
 
 Photoshop
-Уроки по фотошопу: http://pikabu.ru/story/_3901569
+РЈСЂРѕРєРё РїРѕ С„РѕС‚РѕС€РѕРїСѓ: http://pikabu.ru/story/_3901569
 Photoshop. Rainy Jungle: https://www.youtube.com/watch?v=85tOWpbH4m0
 Photoshop. Sand Storm: https://www.youtube.com/watch?v=x8cgJqIb95Y
 Photoshop. Rain Effect: https://www.youtube.com/watch?v=AXQSaMZlA5s
@@ -286,32 +286,32 @@ Photoshop. Dark Light Effects Tutorial: https://www.youtube.com/watch?v=1IuXSsUb
 Photoshop. Effects for Photographers: https://www.youtube.com/watch?v=Q5u7d2piCpQ
 Photoshop. Smoke Effect: https://www.youtube.com/watch?v=XD9vsCJUcZY
 Photoshop. Portrait Effect: https://www.youtube.com/watch?v=UlaHsxMls0M
-Создаем реалистичный объект на текстуре: http://pikabu.ru/story/_3549403
+РЎРѕР·РґР°РµРј СЂРµР°Р»РёСЃС‚РёС‡РЅС‹Р№ РѕР±СЉРµРєС‚ РЅР° С‚РµРєСЃС‚СѓСЂРµ: http://pikabu.ru/story/_3549403
 
 Objective-C
-Obj-C. ЧТо нужно знать middle-разработчику: https://habrahabr.ru/post/273487/
-Уроки. Часть 1: https://vk.com/tproger?w=wall-30666517_1223845
-Уроки. Часть 2: https://vk.com/tproger?w=wall-30666517_1226060
+Obj-C. Р§РўРѕ РЅСѓР¶РЅРѕ Р·РЅР°С‚СЊ middle-СЂР°Р·СЂР°Р±РѕС‚С‡РёРєСѓ: https://habrahabr.ru/post/273487/
+РЈСЂРѕРєРё. Р§Р°СЃС‚СЊ 1: https://vk.com/tproger?w=wall-30666517_1223845
+РЈСЂРѕРєРё. Р§Р°СЃС‚СЊ 2: https://vk.com/tproger?w=wall-30666517_1226060
 
 Swift
-Основы разработки приложений под iOs (книга): http://4treaty.ru/programmirovanie/swift_osnovy_razrabotki_prilozhienii_pod_ios_5007.html
-Swift-book. Сайт с уроками программирования на Swift: http://swiftbook.ru/start-page
-Swift. Видеокурс: https://www.youtube.com/watch?v=WNMFljBCOP8
-Пять ловушек для начинающего свифтера: https://habrahabr.ru/post/251325/
-11 крутых сайтов для iOS разработчиков: https://habrahabr.ru/post/252073/
+РћСЃРЅРѕРІС‹ СЂР°Р·СЂР°Р±РѕС‚РєРё РїСЂРёР»РѕР¶РµРЅРёР№ РїРѕРґ iOs (РєРЅРёРіР°): http://4treaty.ru/programmirovanie/swift_osnovy_razrabotki_prilozhienii_pod_ios_5007.html
+Swift-book. РЎР°Р№С‚ СЃ СѓСЂРѕРєР°РјРё РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ РЅР° Swift: http://swiftbook.ru/start-page
+Swift. Р’РёРґРµРѕРєСѓСЂСЃ: https://www.youtube.com/watch?v=WNMFljBCOP8
+РџСЏС‚СЊ Р»РѕРІСѓС€РµРє РґР»СЏ РЅР°С‡РёРЅР°СЋС‰РµРіРѕ СЃРІРёС„С‚РµСЂР°: https://habrahabr.ru/post/251325/
+11 РєСЂСѓС‚С‹С… СЃР°Р№С‚РѕРІ РґР»СЏ iOS СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ: https://habrahabr.ru/post/252073/
 
 Python
 python libraries: http://blog.yhat.com/posts/11-python-libraries-you-might-not-know.html
 Learn Python the Methodical Way: https://realpython.com/blog/python/learn-python-the-methodical-way/
-Пишем движок автодополнения на Python: http://scottlobdell.me/2015/02/writing-autocomplete-engine-scratch-python/
+РџРёС€РµРј РґРІРёР¶РѕРє Р°РІС‚РѕРґРѕРїРѕР»РЅРµРЅРёСЏ РЅР° Python: http://scottlobdell.me/2015/02/writing-autocomplete-engine-scratch-python/
 
 R
-Многое по R: https://github.com/bdemeshev/em301/wiki/R
-Введение в R: http://mpoctok.narod.ru/r/intro.htm
+РњРЅРѕРіРѕРµ РїРѕ R: https://github.com/bdemeshev/em301/wiki/R
+Р’РІРµРґРµРЅРёРµ РІ R: http://mpoctok.narod.ru/r/intro.htm
 
-Немножко математики
-Преобразование девиации и его использование для определения системы координат по набору расстояний: https://habrahabr.ru/post/262601/
-Спектры расстояний простых наборов и их объединений (часть 2): https://habrahabr.ru/post/262703/
-Корреляция, ковариация и девиация (часть 3): https://habrahabr.ru/post/263907/
-Сказ царя Салтана о потенциале лапласиана: https://habrahabr.ru/post/280610/
-тензоры, нейросети, байесовский вывод: https://habrahabr.ru/company/yandex/blog/261245/
+РќРµРјРЅРѕР¶РєРѕ РјР°С‚РµРјР°С‚РёРєРё
+РџСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµ РґРµРІРёР°С†РёРё Рё РµРіРѕ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ РґР»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ СЃРёСЃС‚РµРјС‹ РєРѕРѕСЂРґРёРЅР°С‚ РїРѕ РЅР°Р±РѕСЂСѓ СЂР°СЃСЃС‚РѕСЏРЅРёР№: https://habrahabr.ru/post/262601/
+РЎРїРµРєС‚СЂС‹ СЂР°СЃСЃС‚РѕСЏРЅРёР№ РїСЂРѕСЃС‚С‹С… РЅР°Р±РѕСЂРѕРІ Рё РёС… РѕР±СЉРµРґРёРЅРµРЅРёР№ (С‡Р°СЃС‚СЊ 2): https://habrahabr.ru/post/262703/
+РљРѕСЂСЂРµР»СЏС†РёСЏ, РєРѕРІР°СЂРёР°С†РёСЏ Рё РґРµРІРёР°С†РёСЏ (С‡Р°СЃС‚СЊ 3): https://habrahabr.ru/post/263907/
+РЎРєР°Р· С†Р°СЂСЏ РЎР°Р»С‚Р°РЅР° Рѕ РїРѕС‚РµРЅС†РёР°Р»Рµ Р»Р°РїР»Р°СЃРёР°РЅР°: https://habrahabr.ru/post/280610/
+С‚РµРЅР·РѕСЂС‹, РЅРµР№СЂРѕСЃРµС‚Рё, Р±Р°Р№РµСЃРѕРІСЃРєРёР№ РІС‹РІРѕРґ: https://habrahabr.ru/company/yandex/blog/261245/
