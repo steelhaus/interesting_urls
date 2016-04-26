@@ -1,4 +1,4 @@
-<a href='http://www.google.ru'>игры:</a>
+игры:
 игры про божественность: http://pikabu.ru/story/divinity_games_bozhestvennost_v_videoigrakh_chast_1_4141670
 милые игры типа Unravel: http://pikabu.ru/story/_4059551
 как пластилиновые фигурки становятся фигруками на экране: http://pikabu.ru/story/_3994327
@@ -29,6 +29,7 @@ AJAX в ASP.NET: http://wladm.narod.ru/C_Sharp/ajax.html
 Нехитрые Советы для программиста C#: http://npk-kaluga.ru/AdvisesCS.htm
 ASP.NET AJAX Control Toolkit: http://professorweb.ru/my/ASP_NET/sites/level5/5_11.php
 Интернет магазин на ASP.NET: http://professorweb.ru/my/ASP_NET/gamestore/level1/
+C# интервью вопросы и ответы: https://www.youtube.com/watch?v=-1NUQNSVVmk
 
 общее по программированию
 80 популярных вопросов на собеседовании: https://tproger.ru/articles/problems/
@@ -219,6 +220,9 @@ github для новичков: https://www.youtube.com/watch?v=0fKg7e37bQE
 Интересная шпаргалка по Гит: http://ndpsoftware.com/git-cheatsheet.html
 Самые типичные ошибки/вопросы по git и способы их решения: https://tproger.ru/translations/most-common-git-screwupsquestions-and-solutions/
 Статья "Иногда гит подходит для хранения бинарников": http://asynch.ro/blog/2015/03/04/git-is-actually-ok-for-some-binaries/
+Видеоурок по git: https://www.youtube.com/watch?v=RiYz59qVypg
+Интерактивный курс по git: https://githowto.com/ru
+19 полезных подсказок по git: http://www.alexkras.com/19-git-tips-for-everyday-use
 
 Криптография
 Основы криптографии: https://www.youtube.com/watch?v=mlMcNWTwxMw
@@ -250,6 +254,13 @@ C чего изучать игрострой: http://pikabu.ru/story/_3899281
 Основы боевой системы в играх: https://habrahabr.ru/post/253697/
 История о создании игры: http://vk.com/wall-83484759_2625
 Тригонометрия для игр: Trigonometry for Games – Sprite Kit and Swift Tutorial: Part 1/2
+Матрицы в Unity 3D: http://catlikecoding.com/unity/tutorials/rendering/part-1/
+Шейдеры в Unity 3D: http://catlikecoding.com/unity/tutorials/rendering/part-2/
+Введение в Unity 2D: https://www.raywenderlich.com/115688/introduction-unity-2d
+2-D физика платформера: http://gamedevelopment.tutsplus.com/tutorials/basic-2d-platformer-physics-part-2--cms-25922
+Создание естественных путей на ландшафте при помощи методов поиска путей: http://www.gamasutra.com/blogs/RuneSkovboJohansen/20160310/267670/Creating_natural_paths_on_terrains_using_pathfinding.php
+Конечные автоматы: http://www.gamasutra.com/blogs/JeanSimonet/20160310/267441/Beyond_the_State_Machine.php
+
 
 Мобильный геймдев
 cocos2D - движок для 2D игр: http://cocos2d.spritebuilder.com/
@@ -315,3 +326,12 @@ R
 Корреляция, ковариация и девиация (часть 3): https://habrahabr.ru/post/263907/
 Сказ царя Салтана о потенциале лапласиана: https://habrahabr.ru/post/280610/
 тензоры, нейросети, байесовский вывод: https://habrahabr.ru/company/yandex/blog/261245/
+CSC. Лекториум. Основы математики. Лекция 1: https://www.youtube.com/watch?v=zIYfYT5THDY
+CSC. Лекториум. Основы математики. Лекция 2: https://www.youtube.com/watch?v=FXtxcGne8S0
+CSC. Лекториум. Основы математики. Лекция 3: https://www.youtube.com/watch?v=N4yyO59eJ_U
+CSC. Лекториум. Основы математики. Лекция 4: https://www.youtube.com/watch?v=nCTrxFuT0kA
+CSC. Лекториум. Основы математики. Лекция 5: https://www.youtube.com/watch?v=kKnnoxsZRB4
+CSC. Лекториум. Основы математики. Лекция 6: https://www.youtube.com/watch?v=k9adhQFQEBU
+CSC. Лекториум. Основы математики. Лекция 7: https://www.youtube.com/watch?v=JKe97hw16nI
+CSC. Лекториум. Основы математики. Лекция 8: https://www.youtube.com/watch?v=dHxadRXE1fI
+CSC. Лекториум. Основы математики. Лекция 9: https://www.youtube.com/watch?v=eYpGdKaSrFE
