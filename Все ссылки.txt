@@ -59,6 +59,13 @@
 google-drive. 
 9) Сборка книжек и многого по программированию: https://drive.google.com/folderview?id=0B0rzCWJBZlaWflRjZXFMeW5aWkNxY0NSNHN1X2x0ODlrSVpXMUVNaHhiTUNpanBSWnVZZHM&usp=sharing
 
+- - - - - Задачи - - - - -
+1) Онлайн-задачи по программированию: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
+2) Головоломки на ТП: https://tproger.ru/tag/brain-teasers/
+3) Логическая задача на взвешивание: https://tproger.ru/problems/logic-problem-for-weights/
+4) Логическая задача на расставление костей домино на шахматной доске: https://tproger.ru/problems/problem-for-chessboard-and-domino/
+5) Убрать один пиксель: https://github.com/steelhaus/interesting_urls/tree/master/src/tasks/change_one_pixel.jpg
+6) Найти площадь фигуры: https://github.com/steelhaus/interesting_urls/tree/master/src/tasks/geometry.jpg
 
 - - - - - Статьи - - - - -
 1) Разница в шаблонах cpp и дженериках java: https://tproger.ru/problems/explain-the-difference-between-the-patterns-in-c-and-c-and-generalizations
@@ -237,6 +244,7 @@ google-drive.
 8) Гарри Поттер и методы рационального мышления: http://hpmor.ru/
 9) Подборка по киберпанку: http://pikabu.ru/story/knigi_zhanra_quotkiberpankquot_3275060
 10) Карьера программиста. Как устроиться на работу в Google, Microsoft или другую ведущую IT-компанию: http://www.piter.com/product/kariera-programmista-kak-ustroitsya-na-rabotu-v-google-microsoft-ili-druguyu-veduschuyu-it-kompaniyu-2
+11) Английские слова для заучивания: https://github.com/steelhaus/interesting_urls/tree/master/src/english850
 
 - - - - - Git - - - - -
 1) Шпаргалка по работе с git: http://eax.me/git-commands/
