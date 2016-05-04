@@ -4,3 +4,4 @@
 3) Swift-book. Сайт с уроками программирования на Swift: http://swiftbook.ru/start-page
 4) Книга «Основы разработки приложений под iOS» : http://4treaty.ru/programmirovanie/swift_osnovy_razrabotki_prilozhienii_pod_ios_5007.html
 5) 11 крутых сайтов для iOS разработчиков: https://habrahabr.ru/post/252073/
+6) Шпаргалка по строкам в swift: http://useyourloaf.com/blog/swift-string-cheat-sheet/
