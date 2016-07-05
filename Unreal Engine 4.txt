@@ -1,0 +1,29 @@
+- - - - - Unreal Engine 4 - - - - -
+1) Разработка 3D/VR на UE4. Часть 1: http://pikabu.ru/story/_4049869
+2) Разработка 3D/VR на UE4. Часть 2: http://pikabu.ru/story/_4093157
+3) Разработка 3D/VR на UE4. Часть 3: http://pikabu.ru/story/_4101206
+4) Разработка 3D/VR на UE4. Часть 4: http://pikabu.ru/story/_4037476
+5) Разработка 3D/VR на UE4. Продолжение искать у этого товарища: http://pikabu.ru/profile/Mealtris
+6) Гайд по оружию (элементарная информация): https://www.youtube.com/watch?v=K8lX4NF6YgU
+7) Гайд по гранатомету: http://shootertutorial.com/2015/06/20/create-an-grenade-launcher/
+8) Траектория снаряда: https://www.youtube.com/watch?v=Fkp50urxShg
+9) Гайд по созданию стрел: https://www.youtube.com/watch?v=4XtLA3bciaE
+10) Гайд по созданию танка: https://www.youtube.com/watch?v=Oh7pDL8RFaI
+11) Написание 2D-платформера: https://habrahabr.ru/post/237409/
+12) Написание сайдскроллера: https://forums.unrealengine.com/showthread.php?24522-Tutorial-Blueprint-Spline-locked-sidescroller-%28e-g-Klonoa-Pandemonium-style-game
+13) Гайд по оружию ближнего боя: https://www.youtube.com/watch?v=Bw7WMhMrmpc
+14) Написание top-down игры: https://www.youtube.com/watch?v=VtMwSduToZg
+15) Реализация AI: https://www.youtube.com/watch?v=VAAHKNoIg0w
+16) Основы AI (стрим): https://www.youtube.com/watch?v=evYE7tfWXUY
+17) Sensing AI (Зрение): https://www.youtube.com/watch?v=59INcP9Vsmo
+18) Основы ландшафта: https://www.youtube.com/watch?v=2Lx-drupqls
+19) Гайд по повороту персонажа к цели: https://www.youtube.com/watch?v=JQWIckh4XT0
+20) Написание дерева решений на C++: https://forums.unrealengine.com/showthread.php?130-Behavior-Tree-Tutorial
+21) Видео-туториалы по ue4: https://www.youtube.com/watch?v=QIvcTwlosMQ&list=PLwqnA65RFUf-8xIFQYV8Zjziv4gUqjLZ_
+22) Туториалы по ue4: http://shootertutorial.com/tutorials/
+23) Процедурное добавление сплайн-мешей: https://www.youtube.com/watch?v=7YUxM0NDWRY
+24) Настройка персонажа. Часть 1: https://www.youtube.com/watch?v=UmPhU62_jos
+25) Настройка персонажа. Часть 2: https://www.youtube.com/watch?v=owmVuYuvCo0
+26) Интересно воссоздать. Гарпун с веревкой: https://www.youtube.com/watch?v=b8Y2zVFZCg0
+27) Интересно воссоздать. Классная реализация шутера: https://www.youtube.com/watch?v=KVkSZR8KE4w
+28) Интересно воссоздать. Суперспособности персонажа: https://www.youtube.com/watch?v=-kn8xwa50O8

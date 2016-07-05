@@ -1,0 +1,6 @@
+- - - - - Python - - - - -
+1) Интересные библиотеки для питона: http://blog.yhat.com/posts/11-python-libraries-you-might-not-know.html
+2) Методический подход изучения питона: https://realpython.com/blog/python/learn-python-the-methodical-way/
+3) Пишем движок автодополнения на Python: http://scottlobdell.me/2015/02/writing-autocomplete-engine-scratch-python/
+4) Ищем прямоугольники без OpenCV на Python: https://www.homeworkhelponline.net/blog/programming/find-rectangles
+5) Сравнение изображений на Python: https://7webpages.com/blog/image-duplicates-detection-python/

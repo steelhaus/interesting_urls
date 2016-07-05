@@ -1,0 +1,6 @@
+- - - - - SQL - - - - -
+1) Изучение oracle pl/sql по шагам: http://www.firststeps.ru/sql/oracle/oracle1.html
+2) Вопросы на собеседовании по sql: http://java67.blogspot.ru/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html
+3) Профилактика SQL-инъекций: https://habrahabr.ru/post/87872/
+4) SQL Server шаг за шагом: http://www.firststeps.ru/sql/sql1.html
+5) Введение в SQL: http://www.mysql.ru/docs/gruber/

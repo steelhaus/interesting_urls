@@ -1,0 +1,12 @@
+- - - - - Книги - - - - -
+1) Подборка фантастики: http://pikabu.ru/story/_3973698
+2) Подборка антиутопии: http://www.adme.ru/tvorchestvo-pisateli/15-knig-antiutopij-kotorye-izmenyat-vashe-mnenie-ob-idealnom-mire-723410/
+3) Подборка фентези 1: http://pikabu.ru/story/_3379955
+4) Подборка фентези 2: http://pikabu.ru/story/_3382351
+5) Подборка фентези 3: http://pikabu.ru/story/_4155359
+6) Квантовая механика: https://habrahabr.ru/company/piter/blog/247787/
+7) Книги для прокачки мозгов: https://habrahabr.ru/company/piter/blog/250121/
+8) Гарри Поттер и методы рационального мышления: http://hpmor.ru/
+9) Подборка по киберпанку: http://pikabu.ru/story/knigi_zhanra_quotkiberpankquot_3275060
+10) Карьера программиста. Как устроиться на работу в Google, Microsoft или другую ведущую IT-компанию: http://www.piter.com/product/kariera-programmista-kak-ustroitsya-na-rabotu-v-google-microsoft-ili-druguyu-veduschuyu-it-kompaniyu-2
+11) Английские слова для заучивания: https://github.com/steelhaus/interesting_urls/tree/master/src/english850

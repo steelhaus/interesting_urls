@@ -1,0 +1,21 @@
+- - - - - Gamedev - - - - -
+1) Сайты с бесплатной графикой для игр: http://pikabu.ru/story/_3903473
+2) Хитрости создания игровых уровней: https://habrahabr.ru/post/274483/
+3) Процедурная генерация Карт мира на Unity, C#: https://habrahabr.ru/post/276551/
+4) Шаги разработки игр: https://tproger.ru/translations/making-your-first-game-a-walkthrough-for-game-developers/
+5) Игра за 10 минут. C++/OpenGL. Сапер: https://www.youtube.com/watch?v=vqJQoangCSw
+6) Игра за 10 минут. C++/OpenGL. Шашки: https://www.youtube.com/watch?v=18w2kpn5b9g
+7) Игра за 10 минут. C++/OpenGL. Астероиды: https://www.youtube.com/watch?v=7iAG0qObDbA
+8) Игра за 10 минут. C++/OpenGL. Змейка: https://www.youtube.com/watch?v=GiZGEFBGgKU
+9) Игра за 10 минут. C++/OpenGL. Арканоид: https://www.youtube.com/watch?v=4jMSVaQfoEQ
+10) Игра за 10 минут. C++/OpenGL. Тетрис: https://www.youtube.com/watch?v=q1bHWvpMqtI
+11) Философия создания сетевых игр: https://www.youtube.com/watch?v=AdfUw0Ouqyc
+12) C чего начать изучать игрострой: http://pikabu.ru/story/_3899281
+13) История создания ландшафта на Unity за 24 часа: https://tproger.ru/articles/unity-terrain-24-hours/
+14) Разработка простой игры на Direct3D 9: https://habrahabr.ru/post/251081/
+15) Пишем бота для MMORPG с ассемблером и дренейками. Часть 0: https://habrahabr.ru/post/251137/
+16) Тригонометрия для игр: https://www.raywenderlich.com/90520/trigonometry-games-sprite-kit-swift-tutorial-part-1
+17) Основы боевой системы в играх: https://habrahabr.ru/post/253697/
+18) Создание естественных путей на ландшафте при помощи методов поиска путей: http://www.gamasutra.com/blogs/RuneSkovboJohansen/20160310/267670/Creating_natural_paths_on_terrains_using_pathfinding.php
+19) Конечные автоматы: http://www.gamasutra.com/blogs/JeanSimonet/20160310/267441/Beyond_the_State_Machine.php
+20) Что каждый программист должен знать о сетевых играх: http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/

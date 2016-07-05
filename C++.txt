@@ -1,0 +1,9 @@
+- - - - - C++ - - - - -
+1) Ping-pong На C++: https://www.youtube.com/watch?v=IebKxsucu-s
+2) Начало программирования на C++. Уроки: https://www.youtube.com/watch?v=tAYt6bDW-YI
+3) Простые уроки по C++. Видео: https://www.youtube.com/watch?v=8rYPm7tUaO0&list=PL30625C8F5ADD5BB4
+4) C++. Вызов Pure virtual function: https://tproger.ru/problems/pure-virtual-function-call/
+5) Написание игры ASCII Roguelike за 2 часа: https://www.youtube.com/watch?v=tVWckBaB5xo
+6) Книги по C++: https://tproger.ru/translations/what-books-does-bjarne-stroustrup-suggest-to-master-cpp/
+7) Указатели в C++. Введение: https://habrahabr.ru/post/256443/
+8) Безопасность потоков в С++: https://tproger.ru/problems/safe-threads-in-cpp/

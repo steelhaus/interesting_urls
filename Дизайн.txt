@@ -1,0 +1,12 @@
+- - - - - Дизайн - - - - -
+1) Пиксель-арт для начинающих (часть 1): http://pikabu.ru/story/_3918181
+2) Пиксель-арт для начинающих (часть 2): http://pikabu.ru/story/_3920715
+3) Пиксель-арт для начинающих (часть 3): http://pikabu.ru/story/_3923038
+4) Игра, которая учит правильно кёрнить: http://type.method.ac/#
+5) Игра, обучающая чувствовать цвет: http://color.method.ac/
+6) Каталог бесплатных шрифтов для использования: http://webfont.ru/
+7) Коды для ASCII - букв: http://character-code.com/
+8) Сервис для просмотра одного изображения в различных разрешениях: https://www.sizzlepig.com/
+9) Онлайн создание мокапов: http://frame.lab25.co.uk/
+10) Генератор хипстерских логотипов: http://www.hipsterlogogenerator.com/
+11) Таблица совместимости цветов: https://github.com/steelhaus/interesting_urls/blob/master/src/tmp/crib_colors_compatibility.jpg

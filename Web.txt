@@ -1,0 +1,14 @@
+- - - - - Web - - - - -
+1) Видео-уроки по Bootstrap 3. https://www.youtube.com/watch?v=AYkEfr-5b1o
+2) Хорошие примеры css: http://www.prostoweb.com.ua/sozdanie_sayta/stati/18_potryasayuschih_primerov_css
+3) Выдвигающееся меню на css: https://www.youtube.com/watch?v=d4P8s-mkMvs
+4) Вертикальная централизация на css: https://www.youtube.com/watch?v=T5RIh4StIvs
+5) Магия одного Div (css): https://habrahabr.ru/company/paysto/blog/251933/
+6) Внутреннее скругление border-radius inset: https://habrahabr.ru/post/259603/
+7) Библиотека uilang - для упрощения работы с css: http://uilang.com/
+8) Введение в разработку слайд-шоу на JavaScript: https://habrahabr.ru/post/251783/
+9) Сладер на css: https://habrahabr.ru/post/252075/
+10) Руководство по современному Веб-фронтенду: https://tproger.ru/translations/web-frontend-guidelines/
+11) Проектирование Web API в 7 шагов: https://habrahabr.ru/company/geekfamily/blog/256495/
+12) Библиотеки для PHP: https://habrahabr.ru/post/252851/
+13) Готовый скелет для разработки веб-страницы: http://getskeleton.com/

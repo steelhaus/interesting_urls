@@ -1,0 +1,18 @@
+- - - - - Немножко математики - - - - -
+1) Преобразование девиации и его использование для определения системы координат по набору расстояний: https://habrahabr.ru/post/262601/
+2) Спектры расстояний простых наборов и их объединений (часть 2): https://habrahabr.ru/post/262703/
+3) Корреляция, ковариация и девиация (часть 3): https://habrahabr.ru/post/263907/
+4) Сказ царя Салтана о потенциале лапласиана: https://habrahabr.ru/post/280610/
+5) Тензоры, нейросети, байесовский вывод: https://habrahabr.ru/company/yandex/blog/261245/
+6) CSC. Лекториум. Основы математики. Лекция 1: https://www.youtube.com/watch?v=zIYfYT5THDY
+7) CSC. Лекториум. Основы математики. Лекция 2: https://www.youtube.com/watch?v=FXtxcGne8S0
+8) CSC. Лекториум. Основы математики. Лекция 3: https://www.youtube.com/watch?v=N4yyO59eJ_U
+9) CSC. Лекториум. Основы математики. Лекция 4: https://www.youtube.com/watch?v=nCTrxFuT0kA
+10) CSC. Лекториум. Основы математики. Лекция 5: https://www.youtube.com/watch?v=kKnnoxsZRB4
+11) CSC. Лекториум. Основы математики. Лекция 6: https://www.youtube.com/watch?v=k9adhQFQEBU
+12) CSC. Лекториум. Основы математики. Лекция 7: https://www.youtube.com/watch?v=JKe97hw16nI
+13) CSC. Лекториум. Основы математики. Лекция 8: https://www.youtube.com/watch?v=dHxadRXE1fI
+14) CSC. Лекториум. Основы математики. Лекция 9: https://www.youtube.com/watch?v=eYpGdKaSrFE
+15) Простенько о матлогике: http://mathhelpplanet.com/static.php?p=matematicheskaya-logika-i-yazyki-programmirovaniya
+16) Лекции по матлогике: http://mathmod.bmstu.ru/Docs/Eduwork/ml/ml.html
+

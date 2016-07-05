@@ -1,0 +1,25 @@
+- - - - - Unity 3D и 2D - - - - -
+1) Арканоид на Unity. Часть 1 - Настройка проекта: https://tproger.ru/translations/build-arkanoid-with-unity-project-setup/
+2) Арканоид на Unity. Часть 2 - Механика игрока и мячика: https://tproger.ru/translations/build-arkanoid-with-unity-player-and-ball-mechanics/
+3) Арканоид на Unity. Часть 3 - Поведение блоков, дизайн уровней: https://tproger.ru/translations/build-arkanoid-with-unity-block-mechanics-prefabs-and-level-design/
+4) Арканоид на Unity. Часть 4 - Добавление звуков и новых унровней: https://tproger.ru/translations/build-arkanoid-with-unity-audio-new-levels-and-deployment/
+5) Разработка 2D-аркады на Unity. Часть 1: http://pikabu.ru/story/_3858542
+6) Разработка 2D-аркады на Unity. Часть 2: http://pikabu.ru/story/_3860698 
+7) Разработка 2D-аркады на Unity. Часть 3: http://pikabu.ru/story/_3872379
+8) Разработка 2D-аркады на Unity. Часть 4: http://pikabu.ru/story/_3874782
+9) Разработка 2D-аркады на Unity. Часть 4.5: http://pikabu.ru/story/_3883794
+10) Разработка 2D-аркады на Unity. Часть 5: http://pikabu.ru/story/_3886240
+11) Гоночная игра на Unity 3D: https://habrahabr.ru/post/247667/
+12) Разработка игры «Приключения печеньки». Часть 0: http://pikabu.ru/story/_2919582
+13) Разработка игры «Приключения печеньки». Часть 1: http://pikabu.ru/story/_2920554
+14) Разработка игры «Приключения печеньки». Часть 2: http://pikabu.ru/story/_2958456
+15) Разработка игры «Приключения печеньки». Часть 3: http://pikabu.ru/story/_2985938
+16) Разработка игры «Приключения печеньки». Часть 4: http://pikabu.ru/story/_3057931
+17) Разработка игры «Приключения печеньки». Часть 5: http://pikabu.ru/story/_3174735
+18) Разработка игры «Приключения печеньки». Часть 6: http://pikabu.ru/story/_3339224
+19) Моделирование 2D водной поверхности в Unity: https://tproger.ru/translations/creating-dynamic-2d-water-effects-in-unity/
+20) Создание механического шагающего муравья в Unity: https://www.youtube.com/watch?v=sJjfm0-T9Bc&list=PLomfhRzw8PUFd4EaqKa-QYWO7hxCmLC84
+21) Матрицы в Unity 3D: http://catlikecoding.com/unity/tutorials/rendering/part-1/
+22) Шейдеры в Unity 3D: http://catlikecoding.com/unity/tutorials/rendering/part-2/
+23) Введение в Unity 2D: https://www.raywenderlich.com/115688/introduction-unity-2d
+24) 2-D физика платформера: http://gamedevelopment.tutsplus.com/tutorials/basic-2d-platformer-physics-part-2--cms-25922

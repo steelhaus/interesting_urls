@@ -1,0 +1,5 @@
+- - - - - OpenGl - - - - -
+1) OpenGl разработка игр. Стартовый урок: https://www.youtube.com/watch?v=VS8wlS9hF8E&index=1&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
+2) OpenGl туториалы: http://mbsoftworks.sk/index.php?page=tutorials&series=1
+3) Записки программиста. Изучение OpenGL (одна из статей): http://eax.me/opengl-vbo-vao-shaders/
+4) My Little OpenGL. Уроки по OpenGL: http://day9saidme.blogspot.ru/

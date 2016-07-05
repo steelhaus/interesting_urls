@@ -1,0 +1,26 @@
+- - - - - Java - - - - -
+1) Шпаргалка java-программиста: https://habrahabr.ru/company/luxoft/blog/280784/
+2) Java Fx - видео-туториалы: https://www.youtube.com/watch?v=EEcpMTpaWhs
+3) Java Fx - видео-туториалы. Ссылка на уроки на гитхабе: https://github.com/KriechelD/YouTubeChannel
+4) Многопоточность в Java: https://habrahabr.ru/post/164487/
+5) Java веб-фреймворки: https://xyclade.github.io/MachineLearning/
+6) Путь к Java Junior Developer: https://habrahabr.ru/post/203688/
+7) Учебник по Java FX - http://code.makery.ch/library/javafx-8-tutorial/ru/
+8) Создание exe-файла для java-программы: http://www.devbug.info/2011/04/exe-java.html
+9) Создание установщика для java-программы: http://www.pvsm.ru/java/33402/print/
+10) Распространенные ошибки java-новичков: https://habrahabr.ru/company/mailru/blog/251365/
+11) Горячие клавиши в IntelliJIDEA: https://github.com/steelhaus/interesting_urls/tree/master/src/intellijIDEA_shortcuts
+12) Простое клиентское приложение на javaFx: http://www.oracle.com/technetwork/ru/topics/java/default-424988-ru.html
+13) Простое приложение на Spring MVC: http://fuud-java.blogspot.ru/2011/02/spring-mvc-30-web.html
+14) Разработка фрактального кустика: https://habrahabr.ru/post/268405/
+15) Решение задачи FizzBuzz на Java 8: http://javarevisited.blogspot.ru/2015/04/fizzbuzz-solution-in-java-8.html
+16) Реализация RESTFul Web Service на java: https://habrahabr.ru/post/150034/
+17) Intellij IDEA. шорткаты: https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf
+18) Веб-приложение на чистой Java. Изучаем Vaadin: https://habrahabr.ru/company/xakep/blog/244477/
+19) 10 вещей про строки: http://javarevisited.blogspot.ru/2013/07/java-string-tutorial-and-examples-beginners-programming.html
+20) Уход от циклов в java 8: Swerving Away from Loops in Java 8
+21) Повторяющиеся аннотации в java 8: https://blog.idrsolutions.com/2015/03/java-8-repeating-annotation-explained-in-5-minutes/
+22) Грамотный дизайн приложений на java и C#: https://insidethecpu.com/2015/01/23/object-oriented-test-driven-design-in-c-and-java/
+23) Скрытые исключения в java: http://codejargon.blogspot.ru/2015/02/sneaky-exceptions.html?m=1
+34) О том, как Java оптимизирует циклы, оставляя возможность для отладки: http://vk.com/wall-30666517_1097883
+35) Шпаргалка java-программиста. Решение типовых задач. Luxoft: https://habrahabr.ru/company/luxoft/blog/278233/
