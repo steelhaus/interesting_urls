@@ -1,4 +1,6 @@
-- - - - - Криптография - - - - -
+﻿- - - - - Криптография - - - - -
 1) Основы криптографии: https://www.youtube.com/watch?v=mlMcNWTwxMw
 2) Курсы этичного хакинга. начальная подготовка: https://habrahabr.ru/company/pentestit/blog/260361/
 3) Книга Компьютер глазами Хакера: http://vk.com/wall-63708206_60166
+4) Основы компьютерной безопасности, видео-уроки: https://vk.com/videos-54530371?section=album_56085782
+5) Задача по основам криптографии в интересной форме (mitm): https://tproger.ru/problems/rsa/

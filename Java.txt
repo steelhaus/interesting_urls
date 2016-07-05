@@ -1,4 +1,4 @@
-- - - - - Java - - - - -
+﻿- - - - - Java - - - - -
 1) Шпаргалка java-программиста: https://habrahabr.ru/company/luxoft/blog/280784/
 2) Java Fx - видео-туториалы: https://www.youtube.com/watch?v=EEcpMTpaWhs
 3) Java Fx - видео-туториалы. Ссылка на уроки на гитхабе: https://github.com/KriechelD/YouTubeChannel
@@ -24,3 +24,5 @@
 23) Скрытые исключения в java: http://codejargon.blogspot.ru/2015/02/sneaky-exceptions.html?m=1
 34) О том, как Java оптимизирует циклы, оставляя возможность для отладки: http://vk.com/wall-30666517_1097883
 35) Шпаргалка java-программиста. Решение типовых задач. Luxoft: https://habrahabr.ru/company/luxoft/blog/278233/
+36) Видео-курс по созданию приложений на java для начинающих: http://vk.com/wall-54530371_70445
+37) Уроки java на примере простой игры: http://vk.com/wall-54530371_71105

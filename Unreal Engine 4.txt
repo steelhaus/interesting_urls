@@ -1,4 +1,4 @@
-- - - - - Unreal Engine 4 - - - - -
+﻿- - - - - Unreal Engine 4 - - - - -
 1) Разработка 3D/VR на UE4. Часть 1: http://pikabu.ru/story/_4049869
 2) Разработка 3D/VR на UE4. Часть 2: http://pikabu.ru/story/_4093157
 3) Разработка 3D/VR на UE4. Часть 3: http://pikabu.ru/story/_4101206
@@ -27,3 +27,5 @@
 26) Интересно воссоздать. Гарпун с веревкой: https://www.youtube.com/watch?v=b8Y2zVFZCg0
 27) Интересно воссоздать. Классная реализация шутера: https://www.youtube.com/watch?v=KVkSZR8KE4w
 28) Интересно воссоздать. Суперспособности персонажа: https://www.youtube.com/watch?v=-kn8xwa50O8
+29) Стрим по созданию сурвайвал-шутера. На момент создания записи - 15 видео по 3 часа. Первое видео: http://vk.com/video-115595865_456239017
+30) Дайджест по ue4: https://habrahabr.ru/company/plarium/blog/302304/

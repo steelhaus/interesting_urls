@@ -1,4 +1,4 @@
-- - - - - C# и ASP.NET - - - - -
+﻿- - - - - C# и ASP.NET - - - - -
 1) Многопользовательский чат на C# за 15 минут: https://habrahabr.ru/post/252021/
 2) AJAX в ASP.NET: http://wladm.narod.ru/C_Sharp/ajax.html
 3) Бот для сапера на C#: https://habrahabr.ru/post/267047/
@@ -13,3 +13,4 @@
 12) Темы собеседования на должность ASP.NET разработчика: http://www.coding4.net/post/post-by-tiberian-20130315-0055-205.aspx
 13) Вопросы на собеседовании по ASP.NET с ответами: http://www.coding4.net/post/post-by-tiberian-20130314-2045-383.aspx
 14) Приступаем к созданию веб-приложений ASP.NET MVC 4: https://mva.microsoft.com/ru/training-courses/-asp-net-mvc-4-8239?l=S2FLVKQ5_1604984382
+15) Пишем аудиопроигрыватель музыки ВК на C#: http://vk.com/wall-30666517_1375716

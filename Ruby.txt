@@ -1,0 +1,4 @@
+﻿- - - - - Ruby - - - - -
+1) Head First. Изучаем руби. Книга: http://vk.com/doc123534285_437675650?hash=46fba5b6129449a9cc&dl=0b4d8f147eb6287645
+2) Изучаем ruby on rails, видео-уроки, часть 1: http://vk.com/wall-30666517_1364489
+3) Изучаем ruby on rails, видео-уроки, часть 2: http://vk.com/wall-30666517_1368478

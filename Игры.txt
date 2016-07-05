@@ -1,4 +1,4 @@
-- - - - - Игры - - - - -
+﻿- - - - - Игры - - - - -
 1) Подборка игр про божественность: http://pikabu.ru/story/_4141670
 2) Подборка милых игр: http://pikabu.ru/story/_4059551
 3) Интересная игра, в которой нужно программировать (Javascript) для прохождения: https://alexnisnevich.github.io/untrusted/
@@ -8,3 +8,11 @@
 7) На что влияют настройки графики в играх (1): https://vk.com/page-83484759_50198758
 8) На что влияют настройки графики в играх (2): https://vk.com/page-83484759_50198925
 9) Игры для обучения программированию (12 штук): https://habrahabr.ru/company/ilkfinkom/blog/251583/
+10) Игра, в которой необходимо программировать космический корабль для полетов: https://tproger.ru/news/3001sq/
+11) Разработка игр и работа с графикой: https://tproger.ru/experts/11/
+12) Пишем свою первую игру: https://tproger.ru/translations/making-your-first-game-a-walkthrough-for-game-developers/
+13) Создание RPG на движке source: https://tproger.ru/translations/diy-rpg-on-valve-source/
+14) Об игровом балансе: https://tproger.ru/translations/game-element-balance/
+15) Физический движок, взгляд изнутри: https://tproger.ru/translations/whats-in-a-projectile-physics-engine-part-1/
+16) Введение в spritesheet анимацию: https://tproger.ru/translations/an-introduction-to-spritesheet-animation/
+17) Armadillo Run - игра про конструктор мостов

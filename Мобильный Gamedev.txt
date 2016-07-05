@@ -1,4 +1,4 @@
-- - - - - Мобильный Gamedev - - - - -
+﻿- - - - - Мобильный Gamedev - - - - -
 1) Разработка и адаптация игр под мобильные платформы: https://habrahabr.ru/company/intel/blog/144241/
 2) Ответы разработчика игр: http://pikabu.ru/story/_3943470
 3) cocos2D - движок для 2D игр: http://cocos2d.spritebuilder.com/
@@ -10,3 +10,6 @@
 9) Бесплатная онлайн школа Android-разработчиков: https://habrahabr.ru/company/e-Legion/blog/254091/
 10) Android Application Development Tutorial: https://www.youtube.com/watch?v=qTv9gcshf8Q
 11) Push-уведомления в android: https://tproger.ru/translations/adventures-in-android-user-notifications/
+12) Android + javascript. Разработка инди-игры. Часть 1: https://vk.com/wall-54530371_76137
+13) Android + javascript. Разработка инди-игры. Часть 2: http://vk.com/wall-54530371_76363
+14) Основы мобильной разработки с точки зрения PM: http://vk.com/wall-54530371_72812

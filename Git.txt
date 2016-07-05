@@ -1,4 +1,4 @@
-- - - - - Git - - - - -
+﻿- - - - - Git - - - - -
 1) Шпаргалка по работе с git: http://eax.me/git-commands/
 2) Ежедневная работа с git: https://habrahabr.ru/post/174467/
 3) Git быстрый старт. Видеокурс: https://geekbrains.ru/courses/66?utm_source=vk.com&utm_medium=social&utm_term=git_quick_start&utm_campaign=tp_ad_22.10.15
@@ -12,3 +12,5 @@
 11) Видеоурок по git: https://www.youtube.com/watch?v=RiYz59qVypg
 12) Интерактивный курс по git: https://githowto.com/ru
 13) 19 полезных подсказок по git: http://www.alexkras.com/19-git-tips-for-everyday-use
+14) 17 приемов работы с git: http://theasder.github.io/tools/2016/06/03/git-hot-tips.html
+15) Работа с git, видеоуроки: http://vk.com/wall-54530371_73237

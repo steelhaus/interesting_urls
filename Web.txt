@@ -1,4 +1,4 @@
-- - - - - Web - - - - -
+﻿- - - - - Web - - - - -
 1) Видео-уроки по Bootstrap 3. https://www.youtube.com/watch?v=AYkEfr-5b1o
 2) Хорошие примеры css: http://www.prostoweb.com.ua/sozdanie_sayta/stati/18_potryasayuschih_primerov_css
 3) Выдвигающееся меню на css: https://www.youtube.com/watch?v=d4P8s-mkMvs
@@ -12,3 +12,5 @@
 11) Проектирование Web API в 7 шагов: https://habrahabr.ru/company/geekfamily/blog/256495/
 12) Библиотеки для PHP: https://habrahabr.ru/post/252851/
 13) Готовый скелет для разработки веб-страницы: http://getskeleton.com/
+14) Бесплатный курс по javascript от google: https://tproger.ru/news/new-google-free-course-on-promises/
+15) 12 отличных примеров использования css, когда не требуется javascript (мощно): https://tproger.ru/digest/modern-css/

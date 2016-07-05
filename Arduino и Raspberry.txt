@@ -1,4 +1,4 @@
-- - - - - Raspberry Pi, Arduino, контроллеры - - - - -
+﻿- - - - - Raspberry Pi, Arduino, контроллеры - - - - -
 1) Видеоуроки по работе с Arduino. Amperka: https://www.youtube.com/watch?v=bO_jN0Lpz3Q
 2) Уроки по работе с Raspberry PI для начинающих: http://edurobots.ru/raspberry-pi-dlya-nachinayushhix/
 3) Начало работы с Arduino: https://www.youtube.com/watch?v=ZbAqbnkv8WM
@@ -18,3 +18,4 @@
 14) Pikabu. Arduino. Передача радиосигнала (Часть 2): http://pikabu.ru/story/_3639880
 14) Pikabu. Arduino. Передача радиосигнала (Часть 3): http://pikabu.ru/story/_3640719
 14) Pikabu. Arduino. Подключение LCD-дисплея: http://pikabu.ru/story/_3681120
+15) Программируем arduino. Работа со скетчами. Книга: http://vk.com/wall-54530371_73421

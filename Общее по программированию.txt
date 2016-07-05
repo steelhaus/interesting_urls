@@ -1,4 +1,4 @@
-- - - - - Алгоритмы - - - - -
+﻿- - - - - Алгоритмы - - - - -
 1) общие алгоритмы по машинному обучению: https://xyclade.github.io/MachineLearning/
 2) Алгоритмы, которые должен знать любой программист: https://tproger.ru/experts/7/
 3) Нейронные сети. Подборка: http://vk.com/wall-30666517_1227814
@@ -12,6 +12,8 @@
 11) Полигональная генерация карты: http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
 12) Как работает алгоритм Хаффмана в gzip: http://jvns.ca/blog/2015/02/22/how-gzip-uses-huffman-coding/
 13) Реализация арифметических операций при помощи сложения: https://tproger.ru/problems/methods-implements-divide-multiply-subtract-operations-using-addition/
+14) Базовые алгоритмы в игровой форме: http://algosaur.us/
+15) Введение в алгоритмы, видео-уроки: http://vk.com/wall-54530371_72577
 
 - - - - - Общее - - - - -
 1) 80 популярных вопросов на собеседовании: https://tproger.ru/articles/problems/
@@ -26,6 +28,10 @@ google-drive.
 9) Сборка книжек и многого по программированию: https://drive.google.com/folderview?id=0B0rzCWJBZlaWflRjZXFMeW5aWkNxY0NSNHN1X2x0ODlrSVpXMUVNaHhiTUNpanBSWnVZZHM&usp=sharing
 10) Шпаргалка по регулярным выражениям: https://github.com/steelhaus/interesting_urls/blob/master/src/tmp/crib_regex.png
 11) Шпаргалка по команде ls: https://github.com/steelhaus/interesting_urls/blob/master/src/tmp/crib_ls_command.png
+12) Почему диплома недостаточно при устройстве на работу: http://vk.com/video-54530371_456240801?list=82298f182f89127a5f
+13) Курс системного администратора Linux: http://vk.com/im?peers=62980964_88357171_c55&sel=71564190&w=wall-54530371_75943
+14) Сервис для пробных онлайн-собеседований на английском: https://www.pramp.com/
+15) Книга по задачам для собеседования: http://vk.com/wall-30666517_1380610
 
 - - - - - Статьи - - - - -
 1) Разница в шаблонах cpp и дженериках java: https://tproger.ru/problems/explain-the-difference-between-the-patterns-in-c-and-c-and-generalizations
@@ -51,3 +57,13 @@ google-drive.
 21) Unicode and Character Sets: http://www.joelonsoftware.com/articles/Unicode.html
 22) Создание собственного 3D - движка: https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0
 23) Зачем нужны конструкторы?: http://mat-mcloughlin.net/2015/02/22/have-we-forgotten-what-constructors-are-for/
+24) Теория вероятностей в работе программиста: http://vk.com/wall-54530371_72539
+25) Истории от google. 11 навыков для инженера в google: https://tproger.ru/translations/11-skills-you-need-to-master-to-land-a-100000-engineering-job-at-google/
+26) Истории от google. Советы по повышению продуктивности команды: https://tproger.ru/articles/scrum-advices/
+27) Истории от google. Как стать хорошим программистом: https://tproger.ru/articles/google-guide-to-programming/
+28) Синтасический разбор естественных языков от google: https://tproger.ru/news/google-amazing-parsey-mcparseface/
+29) API по компьютерному зрению от google: https://tproger.ru/news/google-cloud-vision-api/
+30) Платформа аналитики по играм от google: https://tproger.ru/news/game-analysis-from-google/
+31) 9 интересных технологий для освоения: https://tproger.ru/digest/10-new-technologies/
+32) Новый игровой движок Banshee: https://tproger.ru/news/banshee-engine-on-github/
+33) Бесплатный игровой движок от Amazon: https://tproger.ru/news/amazon-free-game-engine/
