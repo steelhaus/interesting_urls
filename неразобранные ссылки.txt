@@ -1,0 +1,51 @@
+1) 8 книг из серии Head First O'Reilly: http://vk.com/wall-101965347_35706
+2) Линейная алгебра для разработчиков игр: https://habrahabr.ru/post/131931/
+3) Простое CRUD приложение на spring: http://vk.com/video-54530371_456241265?list=acea913783dae57c60
+4) Курс "Компьютерные сети", часть 4 (1/4): https://vk.com/wall-54530371_79037
+5) Курс системных администраторов: https://vk.com/wall-54530371_76796
+6) Андроид для начинающих, часть 1 (1/4): https://vk.com/wall-54530371_80312
+7) Машинное обучение, часть 2 (2/2): https://vk.com/wall-54530371_78402
+8) От нуля до героя фронтенда, часть 1: https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-front-enda-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-f524d668f328#.7cqltqu2p
+9) От нуля до героя фронтенда, часть 2: https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-25f19e56eb29#.czpcr9aj9
+10) Все, что нужно знать программисту об изображениях: https://vk.com/wall-54530371_80229
+11) Пишем dudl jump в intel xdk на javascript: https://habrahabr.ru/post/306922/
+12) Пример расчета робастного контроллера: https://habrahabr.ru/post/306934/
+13) OpenGL ES2 для Android, урок 3: https://habrahabr.ru/post/306928/
+14) с++ openGL: http://vk.com/video-54530371_456241266?list=f2ef8c6e29089a3610
+15) Шпаргалка по git: https://medium.com/@ABatickaya/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BF%D0%BE-git-55eeea487676#.c36zchwot
+16) Как кодить в условиях неопределенности: http://vk.com/wall-54530371_79878
+17) Обучающая серия видео по Arduino (часть 2): http://vk.com/wall-54530371_79878
+18) Мультиплеер на Unity, часть 1: http://vk.com/wall-83484759_46391
+19) Spring 4 для профессионалов: http://vk.com/wall-54530371_79631
+20) Обучающие статьи по java: http://vk.com/wall-30666517_1391340
+21) Лекция про случайные (решающие) леса: http://vk.com/wall-54530371_79557
+22) 16 лучших практик написания кода: https://tproger.ru/articles/how-to-write-readable-code/
+23) Логическое программирование, часть 2: http://vk.com/wall-54530371_78041
+24) Подборка материалов по разработке игр: http://vk.com/wall-54530371_77636
+25) Подборка алгоритмов над графами: http://vk.com/wall-54530371_77649
+26) Логическое программирование, часть 1: http://vk.com/wall-54530371_77780
+27) Алгоритмы и структуры данных: http://vk.com/wall-54530371_77808
+28) Аудио-плеер Димы (guest, guest): https://tik.kmlab.su/login.view;jsessionid=19pxuzfxhs3xxycg5cumkxqf4
+29) Инстинкты кодировщика: https://habrahabr.ru/company/testutor/blog/305332/
+30) Нахождение пути по A*: http://aigamedev.com/open/article/clearance-based-pathfinding/
+31) Статья о том, как парень писал классические танки с интеллектом: https://habrahabr.ru/post/304246/
+32) Как проверить, удобен ли UI: http://app2top.ru/industry/kak-by-stro-proverit-udoben-li-ui-81135.html
+33) Инди игра на Android + javascript, часть 1: http://vk.com/wall-54530371_76137
+34) Инди игра на Android + javascript, часть 2: http://vk.com/wall-54530371_76363
+35) Методы тестирования: http://vk.com/wall-54530371_76570
+36) Программирование на C: http://vk.com/wall-54530371_76649
+37) Нейронное программирование диалоговых систем: http://vk.com/wall-54530371_76673
+38) 227 бесплатных онлайн-курсов: http://vk.com/wall-54530371_76789
+39) Подборка бесплатных онлайн-курсов на русском языке: http://vk.com/wall-54530371_77119
+40) Боекомлпект тестировщика: http://vk.com/wall-54530371_77355
+41) От идеи до реализации мобильного приложения менее, чем за час: http://vk.com/wall-54530371_77543
+42) Книга Конструируем роботов на Arduino: http://vk.com/wall-54530371_77621
+43) Курс по тестированию. Методика тестирования: http://vk.com/wall-54530371_77623
+44) Подборка материалов по разработке игр: http://vk.com/wall-54530371_77636
+45) Уроки по Unity3D, часть 1: http://vk.com/wall-30666517_1384514
+46) Курс системного администратора Linux: http://vk.com/wall-54530371_75943
+47) Head First - Ruby: http://vk.com/wall-54530371_76258
+48) Большая подборка по разработке игр: http://vk.com/wall-72495085_434864
+49) PYthon для ленивых: http://vk.com/wall-54530371_75338
+50) Блестящее прохождение собеседования на программиста: 189 задач и решений: http://vk.com/wall-30666517_1380610
+51) Задачка по криптографии: http://vk.com/wall-30666517_1380624
