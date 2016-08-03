@@ -7,3 +7,6 @@
 6) Шпаргалка по строкам в swift: http://useyourloaf.com/blog/swift-string-cheat-sheet/
 7) Сайт swift-book с соответствующей книгой: http://swiftbook.ru/
 8) Второе издание книги Василия Усова «Swift 2.2. Основы разработки приложений под iOS и OS X»: https://habrahabr.ru/company/piter/blog/303674/
+9) Подробнее о Core Data. Часть 1: https://habrahabr.ru/post/303512/
+10) Подробнее о Core Data. Часть 2: https://habrahabr.ru/post/303798/
+11) Подробнее о Core Data. Часть 3: https://habrahabr.ru/post/304586/
